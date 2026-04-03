@@ -1,0 +1,262 @@
+{
+    "theme": {
+        "page_bg": "#ffffff",
+        "block_bg": "#0935d2",
+        "hero_bg": "#0935d2",
+        "header_bg": "#ffffff",
+        "footer_bg": "#0935d2",
+        "text_color": "#ffffff",
+        "text_muted": "#ebe7f3",
+        "btn_login_bg": "transparent",
+        "btn_login_border": "rgba(255,255,255,0.3)",
+        "btn_register_bg": "#238636",
+        "btn_register_hover": "#2ea043",
+        "btn_primary_bg": "#0935d2",
+        "btn_primary_hover": "#5970c9",
+        "jackpot_neon": "#d65ca3",
+        "wheel_color_1": "#ffffff",
+        "wheel_color_2": "#6578c3",
+        "header_sticky": "static",
+        "container_width": "1200px",
+        "border_radius": "12px",
+        "offer_img_w": "auto",
+        "offer_img_h": "80px",
+        "order": [
+            "jackpot",
+            "hero",
+            "offers",
+            "adv",
+            "games",
+            "seo",
+            "faq",
+            "reviews",
+            "author"
+        ],
+        "visible": {
+            "jackpot": 0,
+            "hero": 1,
+            "offers": 1,
+            "games": 1,
+            "adv": 0,
+            "seo": 1,
+            "faq": 0,
+            "reviews": 1,
+            "author": 1
+        }
+    },
+    "meta": {
+        "favicon": "\/img\/favicon.png",
+        "pages": [
+            {
+                "url": "\/",
+                "title": "MrQ Casino in United Kingdom | Official website",
+                "desc": "Memo Casino UK offers a regulated online gaming experience in pounds sterling, featuring slots, live tables, secure payments and responsible gambling tools tailored for British players aged eighteen and over.",
+                "code": "<style>\r\n.mrq-chart-wrapper{width:100%;max-width:820px;margin:0 auto;font-family:Arial,Helvetica,sans-serif;background:transparent}\r\n.mrq-bars{display:flex;flex-direction:column;gap:16px}\r\n.mrq-item{display:flex;flex-direction:column;gap:6px}\r\n.mrq-label-row{display:flex;justify-content:space-between;align-items:center;font-size:14px;color:#ffffff}\r\n.mrq-track{width:100%;height:14px;background:rgba(255,255,255,0.2);border-radius:999px;overflow:hidden}\r\n.mrq-fill{height:100%;background:#ffffff;border-radius:999px}\r\n.mrq-score{font-size:12px;opacity:0.8}\r\n.mrq-summary{display:flex;flex-wrap:wrap;gap:12px;margin-top:18px}\r\n.mrq-card{flex:1 1 160px;min-width:160px;background:rgba(255,255,255,0.15);border-radius:14px;padding:12px;color:#ffffff}\r\n.mrq-card-title{font-size:11px;opacity:0.75}\r\n.mrq-card-value{font-size:18px;font-weight:700;margin-top:6px}\r\n.mrq-table{width:100%;border-collapse:collapse;margin-top:28px;color:#ffffff;font-size:14px}\r\n.mrq-table tr{border-bottom:1px solid rgba(255,255,255,0.2)}\r\n.mrq-table td{padding:10px 6px;vertical-align:top}\r\n@media(max-width:600px){\r\n.mrq-label-row{font-size:13px}\r\n.mrq-card-value{font-size:16px}\r\n.mrq-table td{font-size:13px}\r\n}\r\n\r\n@media (min-width: 720px) {\r\n\t.img-width {width:60%!important;}\r\n        }\r\n<\/style>"
+            },
+            {
+                "url": "terms-and-conditions",
+                "title": "Terms and Conditions | MrQ Casino UK",
+                "desc": "",
+                "code": ""
+            },
+            {
+                "url": "privacy-policy",
+                "title": "Privacy Policy | MrQ Casino UK",
+                "desc": "",
+                "code": ""
+            },
+            {
+                "url": "responsible-gambling",
+                "title": "Responsible Gambling | MrQ Casino UK",
+                "desc": "",
+                "code": ""
+            },
+            {
+                "url": "david-forrest",
+                "title": "David Forrest | MrQ Casino UK",
+                "desc": "",
+                "code": ""
+            }
+        ]
+    },
+    "custom_pages": [
+        {
+            "url": "terms-and-conditions",
+            "html": "<div class=\"main-text wrap section\">\r\n<div class=\"main-text-wrap page-item\">\r\n<h1>Terms and Conditions<\/h1>\r\n<p>These Terms and Conditions govern access to and use of&nbsp;<a href=\"https:\/\/mrq-casino-uk1.com\/\">MRQ Casino<\/a>&nbsp;by players located in the United Kingdom. By registering an account, depositing funds or participating in any games or promotions, the player confirms acceptance of these Terms in full. If the player does not agree with any part of these Terms, access to the platform must be discontinued immediately.<\/p>\r\n<h2>1. Eligibility<\/h2>\r\n<p>Participation is strictly limited to individuals aged 18 years or older. The player must be legally permitted to gamble under the laws of the United Kingdom and must not be registered under any applicable self-exclusion scheme that prohibits access to licensed gambling operators.<\/p>\r\n<p>MRQ reserves the right to request documentation to verify identity, age and residential address at any stage. Failure to provide requested documentation may result in suspension or closure of the account.<\/p>\r\n<h2>2. Account Registration<\/h2>\r\n<p>Each player may hold only one account. All information provided during registration must be accurate, complete and kept up to date. Multiple accounts, false information or attempts to bypass account restrictions may lead to account closure and forfeiture of funds in accordance with regulatory obligations.<\/p>\r\n<p>The player is responsible for maintaining the confidentiality of login credentials. Any activity conducted through the account is considered the responsibility of the registered account holder.<\/p>\r\n<h2>3. Deposits and Withdrawals<\/h2>\r\n<p>All transactions are processed in pounds sterling (GBP) unless otherwise specified. Deposits must be made using payment methods registered in the player&rsquo;s own name. MRQ may decline transactions where third-party payment methods are suspected.<\/p>\r\n<p>Withdrawals are subject to verification procedures. MRQ reserves the right to conduct additional checks before processing a withdrawal request. Processing times may vary depending on the payment method and verification status.<\/p>\r\n<h2>4. Bonuses and Promotions<\/h2>\r\n<p>All promotional offers are subject to specific terms, including wagering requirements, maximum bet limits and game contribution percentages. It is the player&rsquo;s responsibility to review promotional conditions before participating.<\/p>\r\n<p>If bonus terms are breached, MRQ reserves the right to void associated winnings and remove the bonus from the account. Promotional offers may be amended, restricted or withdrawn at any time in accordance with regulatory guidelines.<\/p>\r\n<h2>5. Fair Play and Game Integrity<\/h2>\r\n<p>All games are powered by certified random number generators (RNG) and operate under applicable regulatory standards. Any attempt to manipulate software, exploit technical faults or gain unfair advantage is strictly prohibited.<\/p>\r\n<p>In the event of a technical malfunction, MRQ reserves the right to void affected bets and correct balances accordingly.<\/p>\r\n<h2>6. Responsible Gambling<\/h2>\r\n<p>MRQ provides tools that allow players to manage their gambling activity, including deposit limits, time-outs and self-exclusion options. Players are encouraged to use these tools where appropriate.<\/p>\r\n<p>If a player registers with a national self-exclusion scheme, access to the account may be restricted in accordance with regulatory requirements.<\/p>\r\n<h2>7. Account Suspension and Closure<\/h2>\r\n<p>MRQ may suspend or close an account if there is evidence of fraud, money laundering, abusive behaviour, breach of these Terms or violation of applicable laws. Where appropriate, remaining funds will be returned in accordance with regulatory procedures, subject to verification and outstanding obligations.<\/p>\r\n<p>Players may request account closure at any time by contacting customer support.<\/p>\r\n<h2>8. Limitation of Liability<\/h2>\r\n<p>MRQ shall not be liable for losses resulting from misuse of the platform, failure of internet connections, technical interruptions beyond reasonable control or failure to comply with these Terms. Gambling involves financial risk, and players participate at their own discretion.<\/p>\r\n<h2>9. Amendments<\/h2>\r\n<p>MRQ reserves the right to amend these Terms at any time to reflect legal, regulatory or operational changes. Updated Terms will be published on the website. Continued use of the platform constitutes acceptance of the revised Terms.<\/p>\r\n<h2>10. Governing Law<\/h2>\r\n<p>These Terms are governed by the laws applicable to licensed gambling operations in the United Kingdom. Any disputes shall be handled in accordance with applicable regulatory and dispute resolution procedures.<\/p>\r\n<p>By continuing to use MRQ Casino, the player confirms that they have read, understood and agreed to these Terms and Conditions.<\/p>\r\n<\/div>\r\n<\/div>"
+        },
+        {
+            "url": "privacy-policy",
+            "html": "<h1>Privacy Policy<\/h1>\r\n<p>This Privacy Policy explains how&nbsp;<a href=\"https:\/\/mrq-casino-uk1.com\/\">MRQ Casino<\/a>&nbsp;collects, uses, stores and protects personal data of players located in the United Kingdom. By registering an account or using the platform, the player acknowledges that personal data will be processed in accordance with this Policy and applicable UK data protection laws.<\/p>\r\n<h2>1. Data Controller<\/h2>\r\n<p>MRQ Casino acts as the data controller for personal information collected through its website and gaming platform. Personal data is processed in line with UK data protection legislation and regulatory requirements applicable to licensed gambling operators.<\/p>\r\n<h2>2. Information We Collect<\/h2>\r\n<p>During registration and use of the platform, MRQ may collect the following categories of information:<\/p>\r\n<ul>\r\n<li>Identity information (name, date of birth, nationality)<\/li>\r\n<li>Contact details (email address, phone number, residential address)<\/li>\r\n<li>Verification documents (passport, driving licence, proof of address)<\/li>\r\n<li>Financial information (payment method details, transaction history)<\/li>\r\n<li>Technical data (IP address, device type, browser information)<\/li>\r\n<li>Gaming activity and account history<\/li>\r\n<\/ul>\r\n<h2>3. How We Use Personal Data<\/h2>\r\n<p>Personal data is processed for legitimate business and regulatory purposes, including:<\/p>\r\n<ul>\r\n<li>Creating and managing player accounts<\/li>\r\n<li>Verifying identity and age<\/li>\r\n<li>Processing deposits and withdrawals<\/li>\r\n<li>Complying with anti-money laundering obligations<\/li>\r\n<li>Monitoring responsible gambling activity<\/li>\r\n<li>Preventing fraud and misuse of the platform<\/li>\r\n<li>Providing customer support services<\/li>\r\n<\/ul>\r\n<h2>4. Legal Basis for Processing<\/h2>\r\n<p>Personal data is processed on the basis of contractual necessity, legal obligation and legitimate interest. In certain cases, consent may be relied upon, particularly for marketing communications. Players may withdraw marketing consent at any time through account settings or by contacting support.<\/p>\r\n<h2>5. Data Sharing<\/h2>\r\n<p>MRQ may share personal data with trusted third parties where necessary to operate the platform and meet regulatory requirements. These may include payment service providers, identity verification services, fraud prevention agencies and regulatory authorities.<\/p>\r\n<p>Personal data will not be sold to third parties.<\/p>\r\n<h2>6. Data Retention<\/h2>\r\n<p>Personal data is retained only for as long as required to fulfil legal, regulatory and operational obligations. Due to gambling regulations and anti-money laundering laws, certain data may be retained for a defined statutory period even after account closure.<\/p>\r\n<h2>7. Data Security<\/h2>\r\n<p>MRQ applies technical and organisational measures to protect personal data from unauthorised access, misuse or loss. These measures include encryption technologies, secure servers and restricted access controls.<\/p>\r\n<h2>8. Player Rights<\/h2>\r\n<p>Under UK data protection law, players have rights in relation to their personal data, including:<\/p>\r\n<ul>\r\n<li>The right to access personal information held about them<\/li>\r\n<li>The right to request correction of inaccurate data<\/li>\r\n<li>The right to request erasure where legally applicable<\/li>\r\n<li>The right to restrict or object to certain processing activities<\/li>\r\n<li>The right to lodge a complaint with the relevant supervisory authority<\/li>\r\n<\/ul>\r\n<h2>9. Cookies and Tracking Technologies<\/h2>\r\n<p>The website may use cookies and similar technologies to enhance user experience, analyse traffic and support account functionality. Players can manage cookie preferences through browser settings. Disabling certain cookies may affect website performance.<\/p>\r\n<h2>10. International Transfers<\/h2>\r\n<p>If personal data is transferred outside the United Kingdom, appropriate safeguards are implemented to ensure compliance with applicable data protection standards.<\/p>\r\n<h2>11. Policy Updates<\/h2>\r\n<p>This Privacy Policy may be updated periodically to reflect legal or operational changes. The latest version will always be available on the website. Continued use of the platform constitutes acceptance of any updates.<\/p>\r\n<p>For any questions regarding this Privacy Policy or personal data processing, players are encouraged to contact customer support through the official communication channels provided on the platform.<\/p>"
+        },
+        {
+            "url": "david-forrest",
+            "html": "<p>David Forrest is an applied economist and econometrician who specialises in analysis of the sports and gambling industries. He has contributed substantially to the academic literature in both areas. He plays an active role in advising on public policy in the area of responsible gambling and also advises international organisations on issues related to sports integrity and betting markets<\/p>"
+        },
+        {
+            "url": "responsible-gambling",
+            "html": "<h1>Responsible Gambling<\/h1>\r\n<p><a href=\"https:\/\/mrq-casino-uk1.com\/\">MRQ Casino<\/a>&nbsp;is committed to providing a safe, controlled and transparent gambling environment for players in the United Kingdom. Gambling should always be a form of entertainment, not a way to generate income or recover financial losses. This page outlines the tools, policies and external support available to help players stay in control of their play.<\/p>\r\n<h2>Our Approach to Safer Gambling<\/h2>\r\n<p>As a UK-facing online casino, MRQ operates within a regulated framework that prioritises player protection. This includes identity verification, age checks, transaction monitoring and access to practical control tools. The objective is simple: ensure gambling remains balanced, informed and voluntary.<\/p>\r\n<h2>Age Verification<\/h2>\r\n<p>Gambling is strictly limited to individuals aged 18 or over. All players are subject to identity and age verification procedures. Accounts suspected of being underage will be suspended immediately, and any associated funds handled in accordance with regulatory requirements.<\/p>\r\n<h2>Player Control Tools<\/h2>\r\n<p>MRQ provides a range of built-in features that allow players to manage their activity and spending directly from their account.<\/p>\r\n<ul>\r\n<li>Deposit limits &ndash; Set daily, weekly or monthly funding caps<\/li>\r\n<li>Loss limits &ndash; Control the maximum amount you are prepared to lose<\/li>\r\n<li>Wagering limits &ndash; Restrict total staking over a chosen period<\/li>\r\n<li>Session reminders &ndash; Receive notifications about time spent playing<\/li>\r\n<li>Time-outs &ndash; Temporarily suspend access for a cooling-off period<\/li>\r\n<li>Self-exclusion &ndash; Block access to your account for a longer defined period<\/li>\r\n<\/ul>\r\n<h2>Self-Exclusion<\/h2>\r\n<p>If gambling is no longer enjoyable or feels difficult to control, self-exclusion is available. During a self-exclusion period, access to the account will be blocked and promotional communications will cease. The exclusion cannot be reversed until the selected term has expired.<\/p>\r\n<p>Players in the United Kingdom may also register with the national multi-operator self-exclusion scheme, which restricts access across participating licensed gambling websites.<\/p>\r\n<h2>Recognising Problem Gambling<\/h2>\r\n<p>Gambling may be becoming problematic if it begins to affect finances, work, relationships or emotional wellbeing. Warning signs can include chasing losses, gambling with money set aside for essential expenses, hiding activity from family members, or feeling anxious or irritable when not playing.<\/p>\r\n<p>If any of these signs apply, it is advisable to seek support promptly and consider activating limits or exclusion tools.<\/p>\r\n<h2>External Support Organisations<\/h2>\r\n<p>Confidential and independent advice is available from specialist UK organisations:<\/p>\r\n<ul>\r\n<li>GamCare &ndash; Free information, advice and support for problem gambling<\/li>\r\n<li>GAMSTOP &ndash; National online self-exclusion scheme<\/li>\r\n<li>National Gambling Helpline &ndash; 24\/7 confidential assistance<\/li>\r\n<li>BeGambleAware &ndash; Information and tools to help individuals stay in control<\/li>\r\n<\/ul>\r\n<h2>Financial Safeguards<\/h2>\r\n<p>Players are encouraged to set personal budgets before gambling and avoid using credit or borrowed funds. Gambling should never interfere with essential expenses such as rent, utilities or food costs. Maintaining clear financial boundaries is one of the most effective ways to ensure gambling remains recreational.<\/p>\r\n<h2>Privacy and Confidentiality<\/h2>\r\n<p>Any request relating to safer gambling, limits or exclusion is handled confidentially. Personal data is processed in line with applicable UK data protection laws and regulatory requirements.<\/p>\r\n<h2>Final Statement<\/h2>\r\n<p>Responsible gambling is a shared responsibility between the operator and the player. MRQ Casino provides the tools, monitoring and regulated structure necessary to support safe play, but players are encouraged to make informed decisions, remain aware of their habits and seek help whenever needed. Gambling should remain a controlled form of entertainment at all times.<\/p>"
+        }
+    ],
+    "header": {
+        "logo": "\/img\/logo.svg",
+        "logo_alt": "MrQ Casino",
+        "menu": []
+    },
+    "hero": {
+        "jackpot_title": "Current Jackpot",
+        "hero_title": "MrQ Casino bonus",
+        "hero_subtitle": "GET UP to 1000 FS"
+    },
+    "seo": {
+        "html": "<h1>Mrq Casino UK<\/h1>\r\n<p>I came across MRQ without particularly high expectations. I simply wanted to see how &ldquo;British&rdquo; it really felt &mdash; no circus around verification, sensible limits, and no nasty surprises buried in the terms. What I found was a fairly well-rounded experience: a modern platform, fast-loading games, and, most importantly, clear processes around registration, payments and bonuses. This isn&rsquo;t a recycled promo pitch &mdash; it&rsquo;s what it actually feels like to move from sign-up to withdrawal.<\/p>\r\n<div class=\"mrq-chart-wrapper\">\r\n<table class=\"mrq-table\">\r\n<tbody>\r\n<tr>\r\n<td>Brand<\/td>\r\n<td>MRQ Casino<\/td>\r\n<\/tr>\r\n<tr>\r\n<td>Market<\/td>\r\n<td>United Kingdom<\/td>\r\n<\/tr>\r\n<tr>\r\n<td>Main currency<\/td>\r\n<td>GBP (&pound;)<\/td>\r\n<\/tr>\r\n<tr>\r\n<td>Core focus<\/td>\r\n<td>Online slots<\/td>\r\n<\/tr>\r\n<tr>\r\n<td>Verification<\/td>\r\n<td>Standard UK KYC required<\/td>\r\n<\/tr>\r\n<tr>\r\n<td>Mobile access<\/td>\r\n<td>Fully browser-optimised<\/td>\r\n<\/tr>\r\n<tr>\r\n<td>Responsible tools<\/td>\r\n<td>Deposit limits, time-outs, self-exclusion<\/td>\r\n<\/tr>\r\n<\/tbody>\r\n<\/table>\r\n<\/div>\r\n<h2>First Impressions: Clean, Not Overdesigned<\/h2>\r\n<p>MRQ doesn&rsquo;t greet you with flashing chaos. Instead, it&rsquo;s tidy and easy to navigate. I&rsquo;ve little patience for sites where half the screen is taken up by banners and the important buttons are hidden in footers. Here, things are straightforward: the game lobby is readable, filters are where you expect them to be, and you don&rsquo;t waste ten minutes trying to find slots or promotions. It feels built for regular players rather than one-off visitors.<\/p>\r\n<h2>Registration: Quick, but Properly Regulated<\/h2>\r\n<p>Signing up is simple, but with the expected British thoroughness. You enter your basic details, confirm your contact information, and you&rsquo;re in. That said, MRQ isn&rsquo;t the kind of place where you can play anonymously for months. If you plan to withdraw, you should treat identity checks as part of the process rather than an inconvenience.<\/p>\r\n<h3>What to Have Ready for Verification<\/h3>\r\n<p>If you want to save time later, it&rsquo;s worth preparing your documents in advance. This is where many players get frustrated &mdash; usually when they&rsquo;re eager to withdraw &ldquo;right now&rdquo;. My experience was far smoother because I anticipated the checks and didn&rsquo;t expect to bypass KYC.<\/p>\r\n<ul>\r\n<li>Proof of identity: passport or driving licence<\/li>\r\n<li>Proof of address: utility bill or bank statement<\/li>\r\n<li>Ensure your documents match the details on your account<\/li>\r\n<\/ul>\r\n<h2>Deposits and Withdrawals: Where Reliability Matters<\/h2>\r\n<p>The real test of any casino isn&rsquo;t its design &mdash; it&rsquo;s how it handles money. My deposit went through instantly, with no delays or manual intervention. Transactions are in pounds, which removes the headache of currency conversion and hidden fees. Withdrawals follow the usual UK pattern: verification first, processing next. If your account isn&rsquo;t fully verified, delays are likely &mdash; not as a punishment, but as standard regulatory practice.<\/p>\r\n<h3>How to Avoid Withdrawal Delays<\/h3>\r\n<p>I stick to a simple rule: if I know I&rsquo;ll be withdrawing, I complete verification early. Another key point is to use the same payment method for deposits and withdrawals. Changing methods midway often triggers additional checks, which makes sense from a compliance perspective.<\/p>\r\n<ul>\r\n<li>Complete verification before requesting your first withdrawal<\/li>\r\n<li>Use the same payment method for deposits and cash-outs<\/li>\r\n<li>Be mindful of bonus terms if a promotion is active<\/li>\r\n<\/ul>\r\n<h2>Bonuses: Clear, but Read the Terms<\/h2>\r\n<p>I&rsquo;m wary of bonuses that look generous but unravel once you read the small print. MRQ feels more transparent than most &mdash; the terms are generally clear enough to understand what you&rsquo;re signing up for. That said, this is the UK market, which means defined wagering requirements, maximum bet limits during playthrough, and specific game contributions. If you activate a bonus, you&rsquo;re playing by its rules.<\/p>\r\n<h3>My Practical Approach to Bonuses<\/h3>\r\n<p>If I want a clean withdrawal, I play without a bonus. If I&rsquo;m in the mood for promotional play, I accept the conditions upfront and choose games that suit the wagering structure. The worst scenario is claiming a bonus impulsively and then discovering it restricts your withdrawal options.<\/p>\r\n<ul>\r\n<li>If speed matters, skip the bonus<\/li>\r\n<li>If you accept one, check the wagering and maximum stake rules<\/li>\r\n<li>Confirm which games contribute to the requirements<\/li>\r\n<\/ul>\r\n<h2>Games: A Clear Focus on Slots<\/h2>\r\n<p>MRQ is primarily slot-driven, and that&rsquo;s immediately obvious. The lobby doesn&rsquo;t feel thin or repetitive, and there&rsquo;s no sense that the same handful of titles are being recycled under different banners. Filters make it easy to browse by popularity, new releases, or specific mechanics. Table games and live options are available too, but slots are clearly the main attraction.<\/p>\r\n<h3>What Makes a Good Lobby in My View<\/h3>\r\n<p>If I can find something that suits my mood within a couple of minutes, that&rsquo;s a strong sign. Here, I could. No endless scrolling, no lag, no awkward reloads when launching games. It feels like a properly built product rather than a patched-together platform.<\/p>\r\n<h2>Mobile Experience: Fully Functional, Not an Afterthought<\/h2>\r\n<p>I often play on my phone, so mobile performance is crucial. MRQ doesn&rsquo;t feel like a stripped-down version of the desktop site. The menus are intact, the lobby remains clear, and games scale properly to smaller screens. It&rsquo;s the kind of setup that works just as well on the sofa as it does on the train.<\/p>\r\n<h2>Responsible Gambling: Practical Tools, Not Just Policy<\/h2>\r\n<p>Responsible gambling sections are often written in corporate language, but in practice they matter. At MRQ, tools are accessible rather than hidden: deposit limits, time-outs, and reality checks are easy to activate. I see this as sensible design &mdash; it&rsquo;s better to set boundaries early than regret going beyond them later.<\/p>\r\n<ul>\r\n<li>Deposit and stake limits<\/li>\r\n<li>Time-outs and self-exclusion options<\/li>\r\n<li>Reality checks during play<\/li>\r\n<\/ul>\r\n<h2>Customer Support: Measured by Resolution, Not Availability<\/h2>\r\n<p>Support quality isn&rsquo;t about having a live chat button &mdash; it&rsquo;s about how effectively issues are resolved. Generic replies are easy to spot. My experience with MRQ support felt in line with what you&rsquo;d expect from a UK-regulated operator: straightforward answers to straightforward questions, and a more detailed follow-up when needed. Clear communication on your side tends to speed things up.<\/p>\r\n<h2>Final Thoughts: Who MRQ Is Suited For<\/h2>\r\n<div class=\"mrq-chart-wrapper\">\r\n<div class=\"mrq-bars\">\r\n<div class=\"mrq-item\">\r\n<div class=\"mrq-label-row\">\r\n<div>Registration &amp; KYC clarity<\/div>\r\n<div class=\"mrq-score\">9\/10<\/div>\r\n<\/div>\r\n<div class=\"mrq-track\">\r\n<div class=\"mrq-fill\" style=\"width: 90%;\">&nbsp;<\/div>\r\n<\/div>\r\n<\/div>\r\n<div class=\"mrq-item\">\r\n<div class=\"mrq-label-row\">\r\n<div>Payments (GBP) &amp; reliability<\/div>\r\n<div class=\"mrq-score\">9\/10<\/div>\r\n<\/div>\r\n<div class=\"mrq-track\">\r\n<div class=\"mrq-fill\" style=\"width: 90%;\">&nbsp;<\/div>\r\n<\/div>\r\n<\/div>\r\n<div class=\"mrq-item\">\r\n<div class=\"mrq-label-row\">\r\n<div>Bonuses transparency<\/div>\r\n<div class=\"mrq-score\">8\/10<\/div>\r\n<\/div>\r\n<div class=\"mrq-track\">\r\n<div class=\"mrq-fill\" style=\"width: 80%;\">&nbsp;<\/div>\r\n<\/div>\r\n<\/div>\r\n<div class=\"mrq-item\">\r\n<div class=\"mrq-label-row\">\r\n<div>Slots lobby &amp; navigation<\/div>\r\n<div class=\"mrq-score\">8\/10<\/div>\r\n<\/div>\r\n<div class=\"mrq-track\">\r\n<div class=\"mrq-fill\" style=\"width: 80%;\">&nbsp;<\/div>\r\n<\/div>\r\n<\/div>\r\n<div class=\"mrq-item\">\r\n<div class=\"mrq-label-row\">\r\n<div>Mobile experience<\/div>\r\n<div class=\"mrq-score\">9\/10<\/div>\r\n<\/div>\r\n<div class=\"mrq-track\">\r\n<div class=\"mrq-fill\" style=\"width: 90%;\">&nbsp;<\/div>\r\n<\/div>\r\n<\/div>\r\n<div class=\"mrq-item\">\r\n<div class=\"mrq-label-row\">\r\n<div>Safer gambling tools<\/div>\r\n<div class=\"mrq-score\">8\/10<\/div>\r\n<\/div>\r\n<div class=\"mrq-track\">\r\n<div class=\"mrq-fill\" style=\"width: 80%;\">&nbsp;<\/div>\r\n<\/div>\r\n<\/div>\r\n<\/div>\r\n<div class=\"mrq-summary\">\r\n<div class=\"mrq-card\">\r\n<div class=\"mrq-card-title\">Overall rating<\/div>\r\n<div class=\"mrq-card-value\">8.5 \/ 10<\/div>\r\n<\/div>\r\n<div class=\"mrq-card\">\r\n<div class=\"mrq-card-title\">Best suited for<\/div>\r\n<div class=\"mrq-card-value\">Slots players<\/div>\r\n<\/div>\r\n<div class=\"mrq-card\">\r\n<div class=\"mrq-card-title\">Key focus<\/div>\r\n<div class=\"mrq-card-value\">Transparent play<\/div>\r\n<\/div>\r\n<\/div>\r\n<\/div>\r\n<p>I&rsquo;d describe MRQ as a steady, properly regulated British casino for players who value predictability and structure. There&rsquo;s no sense of chaos or unpleasant surprises in the fine print. However, this is a UK-regulated environment &mdash; which means verification, limits and compliance are part of the package. If you&rsquo;re comfortable with that and want a clean, organised platform, MRQ is a solid option. If you&rsquo;re looking for complete freedom without checks, the UK simply isn&rsquo;t that market.<\/p>\r\n<h2>FAQ: MRQ Casino UK<\/h2>\r\n<h3>Is MRQ Casino legal in the UK?<\/h3>\r\n<p>MRQ Casino operates for UK players under UK regulation, which means it follows strict rules around player protection, safer gambling, identity checks, and transparent terms. If you&rsquo;re playing from the United Kingdom, you should always see clear licensing and compliance information on the site itself.<\/p>\r\n<h3>Do I need to verify my account to play?<\/h3>\r\n<p>You can usually register and explore the platform quickly, but if you want to withdraw winnings, verification is part of the process. UK-facing casinos are expected to confirm identity and, in many cases, address details, so it&rsquo;s best to treat KYC as normal rather than optional.<\/p>\r\n<h3>How long do withdrawals take at MRQ Casino?<\/h3>\r\n<p>Timings depend on your payment method, whether your account is verified, and whether any extra checks are required. In practice, the smoothest withdrawals happen when verification is completed early and you use the same method for deposits and withdrawals.<\/p>\r\n<h3>What payment methods can I use in the UK?<\/h3>\r\n<p>UK players typically use bank cards and popular digital payment options supported by regulated operators. Availability can vary over time, so it&rsquo;s worth checking the cashier section for the current list and any limits or fees attached to each method.<\/p>\r\n<h3>Can I play in GBP?<\/h3>\r\n<p>Yes, MRQ Casino is designed for the UK market, so playing in pounds is the standard expectation. Using GBP helps avoid conversion issues and keeps your deposits and withdrawals predictable.<\/p>\r\n<h3>Are bonuses worth taking, or is it better to play without them?<\/h3>\r\n<p>It depends on your goal. If you want maximum flexibility and the cleanest route to a withdrawal, playing without a bonus is often simplest. If you like promotional play, bonuses can be worthwhile as long as you read the wagering rules, maximum bet limits, and which games contribute.<\/p>\r\n<h3>What does &ldquo;wagering requirement&rdquo; mean?<\/h3>\r\n<p>A wagering requirement is the amount you need to stake before bonus funds (and sometimes winnings from those funds) become withdrawable. For example, a &ldquo;x30&rdquo; requirement means you need to place bets totalling thirty times the bonus amount, subject to the casino&rsquo;s specific rules.<\/p>\r\n<h3>Is there a maximum bet while a bonus is active?<\/h3>\r\n<p>Many bonuses come with a maximum stake rule during the playthrough period. If you exceed it, you can risk losing the bonus or the winnings tied to it, so it&rsquo;s worth checking the promotional terms before you start.<\/p>\r\n<h3>Does MRQ Casino offer live dealer games?<\/h3>\r\n<p>MRQ is strongly slot-focused, but live casino and table games are commonly available on UK-facing platforms. The exact selection can change, so the best way to confirm is to check the live casino section in the lobby.<\/p>\r\n<h3>Can I set limits or take a break from play?<\/h3>\r\n<p>Yes. UK-regulated operators provide safer gambling tools such as deposit limits, time-outs, and self-exclusion options. If you want more structured control, you can also use national self-exclusion schemes where applicable.<\/p>\r\n<h3>Why might my withdrawal be delayed?<\/h3>\r\n<p>The most common reasons are incomplete verification, mismatched account details, or payment method checks. Delays are usually avoidable by verifying early, keeping your profile information accurate, and sticking to a consistent payment method.<\/p>\r\n<h3>What should I do if I have an issue with my account?<\/h3>\r\n<p>Start with live chat or email support and be specific: include your registered email, the exact problem, and any relevant screenshots or transaction references. Clear information tends to get you a faster, more useful response.<\/p>"
+    },
+    "advantages": [
+        {
+            "text": "Support 24 hours a day"
+        },
+        {
+            "text": "Large selection of different games and payment methods"
+        },
+        {
+            "text": "Fast payments for players"
+        }
+    ],
+    "faq": [
+        {
+            "q": "Is Midnite Casino legal for players in the United Kingdom?",
+            "a": "Yes. Midnite operates under a licence issued by the UK Gambling Commission, which means it complies with British regulatory standards covering player protection, identity verification, responsible gambling measures and the safeguarding of customer funds."
+        },
+        {
+            "q": "Do I need to complete verification before withdrawing?",
+            "a": "Yes. While you may be able to explore the platform before full verification is completed, you will need to pass identity checks before any withdrawal is processed. It is advisable to complete KYC early to avoid delays later."
+        },
+        {
+            "q": "How long do withdrawals usually take?",
+            "a": "Withdrawal times depend on the payment method used and whether your account is fully verified. E-wallets and certain online banking methods are typically faster than traditional card withdrawals. In most cases, once approved, payments are processed within hours to a couple of working days."
+        },
+        {
+            "q": "Does Midnite Casino offer live dealer games?",
+            "a": "Yes. The live casino section includes roulette, blackjack and other table games streamed in real time. The interface is optimised for both desktop and mobile play, with stable streaming quality."
+        },
+        {
+            "q": "Are there wagering requirements on bonuses?",
+            "a": "Most promotional offers include wagering requirements, which must be met before bonus winnings can be withdrawn. Always review the specific terms attached to each promotion, including maximum withdrawal limits and eligible games."
+        },
+        {
+            "q": "Can I set deposit or loss limits?",
+            "a": "Yes. Midnite provides responsible gambling tools that allow players to set deposit limits, take cooling-off breaks or self-exclude if necessary. These controls can be managed directly from your account settings."
+        },
+        {
+            "q": "What is the minimum deposit?",
+            "a": "The minimum deposit typically starts at £10, though this may vary depending on the payment method selected. Always check the cashier section for the most up-to-date information."
+        },
+        {
+            "q": "Does Midnite have a VIP programme?",
+            "a": "Midnite does not follow the traditional multi-tier VIP ladder seen at some older operators. Promotional incentives are structured differently, with periodic offers rather than a fixed status-based system."
+        },
+        {
+            "q": "Is Midnite suitable for casual players?",
+            "a": "Yes. The platform’s clean design, straightforward navigation and accessible responsible gambling tools make it suitable for both casual players and more experienced users who prefer a modern, uncluttered interface."
+        }
+    ],
+    "reviews": [
+        {
+            "name": "Ryan K., Glasgow",
+            "photo": "",
+            "text": "MRQ isn’t overhyped, and that’s probably why I trust it more. The promotions are there, but they don’t feel misleading. As long as you read the terms and understand wagering, it’s a solid platform for regular slot sessions."
+        },
+        {
+            "name": "Chloe S., Bristol",
+            "photo": "",
+            "text": "Verification took a bit of time, but that’s expected with UK casinos. Once everything was confirmed, I had no issues. I like that there are responsible gambling tools available — it feels like a regulated, controlled environment rather than a risky free-for-all."
+        },
+        {
+            "name": "Daniel M., London",
+            "photo": "",
+            "text": "I mainly play on mobile, and MRQ runs smoothly on my phone. The layout doesn’t feel cramped, and games load without lag. Deposits were instant in GBP, which saves the hassle of exchange rates and hidden fees."
+        },
+        {
+            "name": "Hannah L., Leeds",
+            "photo": "",
+            "text": "What I appreciate most is the transparency around bonus terms. The wagering rules were clearly displayed, and I knew exactly what I was committing to. Customer support responded quickly when I had a question about maximum bet limits during playthrough."
+        },
+        {
+            "name": "Oliver T., Birmingham",
+            "photo": "",
+            "text": "The slot selection is where MRQ stands out. The lobby is easy to navigate, and I didn’t have to scroll endlessly to find something decent. I skipped the welcome bonus and played with my own funds, which made the withdrawal process simple and predictable."
+        },
+        {
+            "name": "James R., Manchester",
+            "photo": "",
+            "text": "I’ve been playing online for years, and MRQ feels properly structured. Registration was straightforward, verification didn’t drag on, and withdrawals were processed without drama once my documents were approved. It’s not flashy, but it’s reliable — and that matters more to me."
+        }
+    ],
+    "offers": [
+        {
+            "img": "\/img\/logo.svg",
+            "title": "Welcome Bonus",
+            "text": "Get 100 FS"
+        },
+        {
+            "img": "\/img\/logo.svg",
+            "title": "Jackpot",
+            "text": "Get up to £1.5M"
+        },
+        {
+            "img": "\/img\/logo.svg",
+            "title": "Cashback",
+            "text": "Up to 10%"
+        }
+    ],
+    "author": {
+        "photo": "img\/davidforrest.jpg",
+        "name": "David Forrest",
+        "link": "david-forrest",
+        "role": "Economist who specialises in analysis of the sports and gambling industries",
+        "desc": "Іs an applied economist and econometrician who specialises in analysis of the sports and gambling industries. He has contributed substantially to the academic literature in both areas. He plays an active role in advising on public policy in the area of responsible gambling and also advises international organisations on issues related to sports integrity and betting markets",
+        "links": [
+            {
+                "text": "Wikipedia",
+                "url": "https:\/\/en.wikipedia.org\/wiki\/David_Forrest_(economist)"
+            },
+            {
+                "text": "Profile",
+                "url": "https:\/\/theconversation.com\/profiles\/david-forrest-161517"
+            }
+        ]
+    },
+    "footer": {
+        "col1_title": "",
+        "col1_menu": [
+            {
+                "title": "Terms and Conditions",
+                "link": "terms-and-conditions"
+            },
+            {
+                "title": "Privacy Policy",
+                "link": "privacy-policy"
+            }
+        ],
+        "col2_title": "",
+        "col2_menu": [
+            {
+                "title": "Responsible Gambling",
+                "link": "responsible-gambling"
+            }
+        ],
+        "text_18": "18+",
+        "images": [
+            {
+                "url": "\/img\/gamstop.png",
+                "alt": "Gamstop Online"
+            },
+            {
+                "url": "\/img\/gc.webp",
+                "alt": "Gambling Comission"
+            }
+        ],
+        "operated": "MrQ Casino is licensed and regulated in Great Britain by the Gambling Commission under account number: 60629",
+        "email": "support@duelz-casino-uk1.com",
+        "copyright": "© 2026. ALL RIGHTS RESERVED. GAMBLING CAN BE ADDICTIVE. PLEASE PLAY RESPONSIBLY. INFO ON THE SITE IS FOR FAMILIARIZATION PURPOSES. ONLY 18+"
+    }
+}
