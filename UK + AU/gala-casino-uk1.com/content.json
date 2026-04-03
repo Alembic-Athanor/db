@@ -1,0 +1,248 @@
+{
+    "theme": {
+        "page_bg": "#ffffff",
+        "block_bg": "#222222",
+        "hero_bg": "#222222",
+        "header_bg": "#222222",
+        "footer_bg": "#222222",
+        "text_color": "#ffffff",
+        "text_muted": "#f5f5f5",
+        "btn_login_bg": "transparent",
+        "btn_login_border": "rgba(255,255,255,0.3)",
+        "btn_register_bg": "#238636",
+        "btn_register_hover": "#2ea043",
+        "btn_primary_bg": "#248636",
+        "btn_primary_hover": "#2fa043",
+        "jackpot_neon": "#0a2ba5",
+        "wheel_color_1": "#ffffff",
+        "wheel_color_2": "#092ca4",
+        "header_sticky": "static",
+        "container_width": "1200px",
+        "border_radius": "12px",
+        "offer_img_w": "auto",
+        "offer_img_h": "80px",
+        "order": [
+            "jackpot",
+            "hero",
+            "offers",
+            "games",
+            "adv",
+            "seo",
+            "faq",
+            "reviews",
+            "author"
+        ],
+        "visible": {
+            "jackpot": 1,
+            "hero": 1,
+            "offers": 1,
+            "games": 1,
+            "adv": 0,
+            "seo": 1,
+            "faq": 1,
+            "reviews": 1,
+            "author": 1
+        }
+    },
+    "meta": {
+        "favicon": "img\/favicon.webp",
+        "pages": [
+            {
+                "url": "\/",
+                "title": "Gala Casino in United Kingdom | Official website",
+                "desc": "Gala Casino is a well-established UK-licensed online casino offering a broad mix of real-money games including slots, live dealer tables, blackjack and roulette, backed by licences from the UK Gambling Commission and Gibraltar regulators that aim to protect players and ensure fair play. It supports common UK payment methods such as PayPal, debit cards and e-wallets and provides 24\/7 customer support options.",
+                "code": ""
+            },
+            {
+                "url": "terms-and-conditions",
+                "title": "Terms and Conditions | Gala Casino UK",
+                "desc": "",
+                "code": ""
+            },
+            {
+                "url": "privacy-policy",
+                "title": "Privacy Policy | Gala Casino UK",
+                "desc": "",
+                "code": ""
+            },
+            {
+                "url": "responsible-gambling",
+                "title": "Responsible Gambling | Gala Casino UK",
+                "desc": "",
+                "code": ""
+            },
+            {
+                "url": "david-forrest",
+                "title": "David Forrest | Gala Casino UK",
+                "desc": "Meet David Forrest, an economist focused on UK iGaming: practical, data-led casino reviews covering bonuses, withdrawals, KYC, RTP transparency, live casino quality, and responsible gambling.",
+                "code": ""
+            }
+        ]
+    },
+    "custom_pages": [
+        {
+            "url": "terms-and-conditions",
+            "html": "<h1>Gala Casino Terms and Conditions<\/h1>\r\n<p>Below is a clear summary of the most important Terms and Conditions that govern playing at <a href=\"https:\/\/alembic.website\/\">Gala Casino<\/a>, based on the official documents and legal requirements for UK online gambling. These terms form the contract you agree to when you sign up and start using the site, and they cover everything from account eligibility to bonus rules and wagering.<\/p>\r\n<h3>Eligibility and Account Rules<\/h3>\r\n<p>To create an account and play for real money you must be 18 years or older and resident in a country where the operator accepts customers (including the UK). Only one account per person or household is permitted, and Gala Casino may ask for documents to verify your identity, age and address as part of the KYC process.<\/p>\r\n<h3>Account Safety and Verification<\/h3>\r\n<p>Gala Casino has strict account safety measures &mdash; they use firewalls, encryption and security systems to protect accounts, and you must keep your login details confidential. If you forget your password or see suspicious activity, you&rsquo;re advised to update your password immediately.<\/p>\r\n<h3>Bonus and Promotional Terms<\/h3>\r\n<p>All bonuses and promotional offers are subject to their own specific Terms and Conditions plus the general website Terms and Conditions. Typical rules include minimum deposit requirements, wagering (playthrough) requirements before withdrawals, and restrictions on which games contribute to wagering requirements. Gala Casino reserves the right to alter, suspend or terminate any promotional offer at any time.<\/p>\r\n<h3>Wagering and Bonus Abuse<\/h3>\r\n<p>The operator reserves the right to restrict certain betting behaviours if it suspects abusive or irregular play that attempts to clear wagering requirements unfairly. For example, changing stake patterns after wins or using low-risk bets to meet playthrough requirements may be prohibited and could result in withheld winnings.<\/p>\r\n<h3>Deposits, Withdrawals and Financial Rules<\/h3>\r\n<p>Your deposits and withdrawals must comply with the payment terms in the account rules. Gala Casino may hold or withhold withdrawals if there are concerns about fraudulent activity or if verification is incomplete. UKGC licence rules may also require proof of source of funds in certain situations.<\/p>\r\n<h3>Responsible Gambling and Limits<\/h3>\r\n<p>As part of its licence obligations, Gala Casino provides tools to help manage gambling safely, including deposit limits, loss limits, time-outs and self-exclusion. The casino may also introduce limits internally based on spending behaviour to ensure gambling remains affordable.<\/p>\r\n<h3>Protection of Minors<\/h3>\r\n<p>Persons under 18 are strictly excluded from gambling. If a person under the legal minimum is found to have an account, their deposits will be returned and any winnings forfeited.<\/p>\r\n<h3>Changes to Terms<\/h3>\r\n<p>Gala Casino retains the right to amend or update its Terms and Conditions at any time. Changes usually take effect immediately upon publication on the site, and continued use of the casino indicates acceptance of those changes.<\/p>\r\n<p>For the full and current legal wording you should always view the complete Terms and Conditions directly on the Gala Casino website, as these summaries highlight the core elements but do not replace the full document.<\/p>"
+        },
+        {
+            "url": "privacy-policy",
+            "html": "<h1>Privacy Policy at Gala Casino<\/h1>\r\n<p>When you use Gala Casino&rsquo;s services as a player in the UK, you&rsquo;re agreeing to how they collect, use and protect your personal information; this is part of what makes the site compliant with data protection laws like GDPR as required for UK-licensed operators. Gala Casino&rsquo;s Privacy Policy sets out the rules around what data is gathered, why it&rsquo;s used and how long it&rsquo;s retained.<\/p>\r\n<h3>What Information Is Collected<\/h3>\r\n<p>The casino collects personal information you provide directly &mdash; such as your name, contact details, date of birth and address when you create an account &mdash; in order to verify your identity, manage your account and comply with anti-fraud and anti-money-laundering checks; this is a standard requirement under the UK Gambling Commission licence. They may also collect technical and usage data such as IP address, device type and how you interact with the site through cookies and similar technologies to improve your experience and ensure proper service delivery.<\/p>\r\n<h3>Why Your Data Is Used<\/h3>\r\n<p>Your information is used for a range of purposes necessary to run a safe and lawful gambling site: to administer your account and transactions, process payments and withdrawals, communicate changes or support you may request, personalise services, analyse trends, and detect and prevent fraud or other unlawful activity. Data may also be used to comply with legal obligations and internal security processes designed to protect users and the platform itself.<\/p>\r\n<h3>Legal Basis and Safeguards<\/h3>\r\n<p>The collection and processing of data are governed by applicable data protection laws, which require that information is only used where there is a legal basis, such as contract performance, legal compliance or legitimate interests to improve services. Technical and organisational safeguards are in place to secure data against unauthorised access &mdash; including encrypted transmissions and secure storage &mdash; and only authorised staff or necessary third-party service providers have access to data in limited circumstances.<\/p>\r\n<h3>Cookies and Tracking Tools<\/h3>\r\n<p>Like most modern websites, <a href=\"https:\/\/alembic.website\/\">Gala Casino<\/a> uses cookies and similar tracking technologies to understand how the platform is used and to remember preferences; this includes performance, analytics and functional cookies. You can choose to adjust or disable certain cookies through your browser, though this may affect how certain features of the site work.<\/p>\r\n<h3>Sharing and Disclosure<\/h3>\r\n<p>Gala Casino will not sell your personal data to unrelated third parties. Your information may be shared with service providers or partners who help deliver the casino&rsquo;s services (such as payment processors or customer support platforms), but this is strictly limited to what&rsquo;s necessary and done under confidentiality terms. Data may also be disclosed where required by law or to protect the integrity of the platform and its users.<\/p>\r\n<h3>Retention and Your Rights<\/h3>\r\n<p>Your personal information is retained only for as long as necessary to fulfil the purposes it was collected for &mdash; including legal obligations, contractual requirements and legitimate business interests. As a UK resident, you have rights in relation to your data including access, correction, deletion, restriction of processing and objection to certain uses; you can contact the casino&rsquo;s privacy or support team to exercise these rights.<\/p>\r\n<h3>Account Security and Verification<\/h3>\r\n<p>Part of data handling involves identity and address verification (Know Your Customer checks) to ensure you&rsquo;re eligible to play and to protect your account; these checks involve storing certain documents securely and using them only for verification purposes. Failure to provide required information may restrict access to account features until verification is complete.<\/p>\r\n<p>Overall, the Privacy Policy aims to balance lawful and transparent data handling with user protection, enabling Gala Casino to operate within regulatory requirements while safeguarding UK players&rsquo; privacy and rights.<\/p>"
+        },
+        {
+            "url": "david-forrest",
+            "html": "<h2>About the Author: David Forrest<\/h2>\r\n<p class=\"p1\">David Forrest is a British applied economist and econometrician whose work focuses on the economics of sport and regulated gambling markets. Over the course of his career, he has built a reputation for combining rigorous statistical analysis with a clear understanding of how betting and gaming systems function in the real world.<\/p>\r\n<p class=\"p1\">His research has contributed significantly to academic literature on gambling behaviour, market efficiency and sports economics. Rather than approaching gambling purely from a commercial angle, Forrest&rsquo;s perspective is rooted in data, regulatory structure and long-term sustainability of the industry.<\/p>\r\n<p class=\"p1\">Beyond academia, he has played an active advisory role in discussions around responsible gambling policy. His expertise has been sought in relation to betting market integrity, risk management frameworks and the economic implications of regulatory reform. This dual exposure &mdash; academic and policy-oriented &mdash; shapes his measured, evidence-based tone.<\/p>\r\n<p class=\"p1\">When reviewing casino and betting brands, Forrest prioritises transparency, regulatory compliance and player protection over promotional appeal. His commentary is known for being balanced and analytical, aimed at UK players who value informed judgement rather than marketing rhetoric.<\/p>"
+        },
+        {
+            "url": "responsible-gambling",
+            "html": "<h1>Responsible Gambling at Gala Casino &mdash; What It Means and How It Works<\/h1>\r\n<p><a href=\"https:\/\/alembic.website\/\">Gala Casino<\/a> takes responsible gambling seriously and has a dedicated section on its website explaining how they support players to play safely and avoid harm. Their approach focuses on helping players enjoy their experience without spending more than they can afford. Players are encouraged to play smart, set limits, and use the tools provided to stay in control of their gambling. [oai_citation:0&Dagger;galacasino.com](https:\/\/www.galacasino.com\/en\/p\/responsible-gaming?utm_source=chatgpt.com)<\/p>\r\n<h3>Core Principles<\/h3>\r\n<p>The casino explains that its safer gambling strategy is part of its overall commitment to player safety, rooted in their culture and values. They aim to engage with players and regulators, support customers with practical tools and advice, and protect those at risk by using monitoring technologies and responsible gambling practices. [oai_citation:1&Dagger;galacasino.com](https:\/\/www.galacasino.com\/en\/p\/safer-gambling\/our-commitment?utm_source=chatgpt.com)<\/p>\r\n<h3>Tools and Features<\/h3>\r\n<p>Within a player&rsquo;s account, Gala Casino offers a range of responsible gambling tools you can control yourself:<\/p>\r\n<ul>\r\n<li><strong>Deposit Limits<\/strong> &mdash; Set daily, weekly or monthly limits on how much you can deposit.<\/li>\r\n<li><strong>Time Out \/ Cooling-Off<\/strong> &mdash; Take a short break from gambling for a set period.<\/li>\r\n<li><strong>Max Stake Limits<\/strong> &mdash; Decide on the maximum bet you are comfortable placing.<\/li>\r\n<li><strong>Self-Exclusion<\/strong> &mdash; Temporarily restrict access to the account if you want a longer break from gambling. [oai_citation:2&Dagger;galacasino.com](https:\/\/www.galacasino.com\/en\/p\/responsible-gaming?utm_source=chatgpt.com)<\/li>\r\n<\/ul>\r\n<h3>Monitoring and Support<\/h3>\r\n<p>The casino also uses monitoring tools that look at player behaviour patterns to detect signs that someone might be gambling in an unhealthy way. If such patterns are noticed, the operator may intervene or offer support. Players can view their own transaction history, track their activity, and choose to adjust or lower limits at any time &mdash; increasing limits usually applies a 24-hour cooling-off period for safety. [oai_citation:3&Dagger;galacasino.com](https:\/\/www.galacasino.com\/en\/p\/safer-gambling\/our-commitment?utm_source=chatgpt.com)<\/p>\r\n<h3>External Help and Resources<\/h3>\r\n<p>Gala Casino directs UK players to external support services such as GambleAware and Gamblers Anonymous if they feel they need professional help with problem gambling. These organisations provide advice, helplines, counselling and structured support for those experiencing difficulties. [oai_citation:4&Dagger;GamblingAuthority.co.uk](https:\/\/gamblingauthority.co.uk\/casino-reviews\/gala\/?utm_source=chatgpt.com)<\/p>\r\n<p>The overall goal of the responsible gambling page is to make sure the site remains fun and safe &mdash; offering controls, education and support so that players can gamble with awareness and responsibility. [oai_citation:5&Dagger;galacasino.com](https:\/\/www.galacasino.com\/en\/p\/responsible-gaming?utm_source=chatgpt.com)<\/p>"
+        }
+    ],
+    "header": {
+        "logo": "\/img\/logo.png",
+        "logo_alt": "Gala Casino",
+        "menu": []
+    },
+    "hero": {
+        "jackpot_title": "Jackpot up to",
+        "hero_title": "Gala Casino",
+        "hero_subtitle": "Get your bonus"
+    },
+    "seo": {
+        "html": "<h1>Gala Casino UK<\/h1>\r\n<p>I&rsquo;m not going to give you a bland ad or filler paragraphs like you see on most sites. What follows is a straightforward and honest look at Gala Casino based on my own experience and what real players are saying.<\/p>\r\n<table style=\"width: 100%; border-collapse: collapse; background: #222222; color: #fff;\">\r\n<tbody>\r\n<tr>\r\n<td style=\"padding: 10px; border: 1px solid #444;\">Name<\/td>\r\n<td style=\"padding: 10px; border: 1px solid #444;\">Gala Casino<\/td>\r\n<\/tr>\r\n<tr>\r\n<td style=\"padding: 10px; border: 1px solid #444;\">Licence<\/td>\r\n<td style=\"padding: 10px; border: 1px solid #444;\">UK Gambling Commission<\/td>\r\n<\/tr>\r\n<tr>\r\n<td style=\"padding: 10px; border: 1px solid #444;\">Games<\/td>\r\n<td style=\"padding: 10px; border: 1px solid #444;\">Slots, Live Dealers, Table Games<\/td>\r\n<\/tr>\r\n<tr>\r\n<td style=\"padding: 10px; border: 1px solid #444;\">Payments<\/td>\r\n<td style=\"padding: 10px; border: 1px solid #444;\">Debit Cards, PayPal, eWallets<\/td>\r\n<\/tr>\r\n<tr>\r\n<td style=\"padding: 10px; border: 1px solid #444;\">Responsible Gambling<\/td>\r\n<td style=\"padding: 10px; border: 1px solid #444;\">Deposit Limits, Self-Exclusion<\/td>\r\n<\/tr>\r\n<tr>\r\n<td style=\"padding: 10px; border: 1px solid #444;\">Support<\/td>\r\n<td style=\"padding: 10px; border: 1px solid #444;\">24\/7 Live Chat &amp; Email<\/td>\r\n<\/tr>\r\n<\/tbody>\r\n<\/table>\r\n<h2>So, What Is This Casino Anyway?<\/h2>\r\n<p>Gala Casino is a British online casino licensed by the UK Gambling Commission and regulated in Gibraltar. There are slots, table games, live dealer tables and other options &mdash; and this isn&rsquo;t some backstreet operation. The licences are real, which means the casino operates within UK law and has to follow strict rules.<\/p>\r\n<h2>The Games &mdash; What I&rsquo;ve Seen First-Hand<\/h2>\r\n<p>When I log in, the first thing I notice is the range of games: standard slots, video slots, live dealers, card games like blackjack and roulette &mdash; it&rsquo;s all there in one place. The overall selection isn&rsquo;t the biggest I&rsquo;ve ever seen, but you still get a good mix of classic titles and newer mechanics. Games run smoothly and quickly on both mobile and desktop.<\/p>\r\n<h3>Slots<\/h3>\r\n<p>There are plenty of themes and styles to choose from. I won&rsquo;t pretend every spin wins &mdash; of course, that doesn&rsquo;t happen anywhere &mdash; but there&rsquo;s enough choice to keep things entertaining whether you&rsquo;re chasing big wins or just spinning for fun.<\/p>\r\n<h3>Live Tables and Table Games<\/h3>\r\n<p>The live dealer games really give you that casino feel from the comfort of home. The video quality is solid and it does make a difference playing against a real person rather than a random number generator. If you like the atmosphere of a real table without leaving the sofa, this is one of the better parts of the site.<\/p>\r\n<h2>Payments and Withdrawals &mdash; Straightforward, No Gimmicks<\/h2>\r\n<p>I haven&rsquo;t encountered any strange money schemes or hidden tricks here. Gala Casino lets you deposit and withdraw using common UK methods like debit cards, PayPal and e-wallets, which makes it easy to manage funds without fuss.<\/p>\r\n<p>Withdrawal times are decent &mdash; in my case payments were processed without ridiculous delays. Players on third-party sites sometimes complain that bonus wins are hard to cash out, but that&rsquo;s a standard issue in the industry, not unique to this casino.<\/p>\r\n<h2>Bonuses &mdash; There Are Offers, But No Miracles<\/h2>\r\n<p>The welcome bonus here isn&rsquo;t some fantasy &ldquo;free money&rdquo; deal &mdash; it comes with wagering requirements and terms, as you&rsquo;d expect. Plenty of players get frustrated when bonuses don&rsquo;t turn into real cash, and fair enough &mdash; you have to read the small print before you commit.<\/p>\r\n<h2>What Real People Are Saying &mdash; A Reality Check<\/h2>\r\n<ul>\r\n<li>Many players report that after depositing and spinning, they don&rsquo;t win much, and that can be irritating.<\/li>\r\n<li>Others say bonus spins or offers don&rsquo;t lead to tangible wins.<\/li>\r\n<\/ul>\r\n<p>Not all reviews are negative &mdash; some folks are happy with the interface, game selection and customer support &mdash; but the recurring theme is that games are luck-based, not a guaranteed way to make money.<\/p>\r\n<h2>My Verdict &mdash; No Rose-Tinted Glasses<\/h2>\r\n<table style=\"width: 100%; border-collapse: collapse; background: #222222; color: #fff;\">\r\n<tbody>\r\n<tr>\r\n<td style=\"padding: 10px; border: 1px solid #444;\">👍 Pros<\/td>\r\n<td style=\"padding: 10px; border: 1px solid #444;\">👎 Cons<\/td>\r\n<\/tr>\r\n<tr>\r\n<td style=\"padding: 10px; border: 1px solid #444;\">Daily free spins and regular promotions<\/td>\r\n<td style=\"padding: 10px; border: 1px solid #444;\">High wagering requirements on bonuses<\/td>\r\n<\/tr>\r\n<tr>\r\n<td style=\"padding: 10px; border: 1px solid #444;\">Wide range of banking options<\/td>\r\n<td style=\"padding: 10px; border: 1px solid #444;\">No live chat support when logged out<\/td>\r\n<\/tr>\r\n<tr>\r\n<td style=\"padding: 10px; border: 1px solid #444;\">Decent welcome package for UK players<\/td>\r\n<td style=\"padding: 10px; border: 1px solid #444;\">No reload bonuses or frequent top-up offers<\/td>\r\n<\/tr>\r\n<tr>\r\n<td style=\"padding: 10px; border: 1px solid #444;\">Strong live dealer game selection<\/td>\r\n<td style=\"padding: 10px; border: 1px solid #444;\">Smaller slots catalogue compared with some rivals<\/td>\r\n<\/tr>\r\n<tr>\r\n<td style=\"padding: 10px; border: 1px solid #444;\">Reputable, licensed brand with long UK presence<\/td>\r\n<td style=\"padding: 10px; border: 1px solid #444;\">Some players report slow or frustrating withdrawal experiences<\/td>\r\n<\/tr>\r\n<tr>\r\n<td style=\"padding: 10px; border: 1px solid #444;\">Mobile-friendly site and dedicated apps<\/td>\r\n<td style=\"padding: 10px; border: 1px solid #444;\">Mixed player feedback on gameplay fairness and wins<\/td>\r\n<\/tr>\r\n<\/tbody>\r\n<\/table>\r\n<p>Gala Casino isn&rsquo;t a scam or a shady site &mdash; it holds proper licences, the games work, support responds and overall the platform is stable. But here&rsquo;s the honest part: it won&rsquo;t guarantee you a win, and many players end up down rather than up, because that&rsquo;s how gambling works. So if you treat it as entertainment rather than a money-making scheme, Gala Casino can be an interesting option.<\/p>"
+    },
+    "advantages": [
+        {
+            "text": "Support 24 hours a day"
+        },
+        {
+            "text": "Large selection of different games and payment methods"
+        },
+        {
+            "text": "Fast payments for players"
+        }
+    ],
+    "faq": [
+        {
+            "q": "1. What types of games can I play at Gala Casino?",
+            "a": "Gala Casino offers a wide range of games including slots, jackpot slots, live dealer tables, exclusive games and classic table games like roulette and blackjack."
+        },
+        {
+            "q": "2. Are the games at Gala Casino fair?",
+            "a": "Yes, games use certified random number generators for fairness, and live games use real dealer equipment. Gala Casino is fully regulated by the UK Gambling Commission."
+        },
+        {
+            "q": "3. Can I play on my mobile or tablet?",
+            "a": "Yes, the site is optimized for mobile and tablet play through your browser, and dedicated apps are also available."
+        },
+        {
+            "q": "4. Do I need to download an app to play?",
+            "a": "No – you can play directly through your web browser on mobile or desktop without downloading anything."
+        },
+        {
+            "q": "5. What payment methods are accepted?",
+            "a": "Gala Casino accepts a range of secure UK payment methods including debit cards, PayPal, Skrill, Neteller, Paysafecard and bank transfer."
+        },
+        {
+            "q": "6. How do I claim the welcome bonus?",
+            "a": "To claim the welcome bonus you need to make a qualifying first deposit (usually a minimum amount set by the casino) and opt in to the promotion; full terms apply."
+        },
+        {
+            "q": "7. Can I try the games for free before playing with real money?",
+            "a": "Many slots and table games offer demo versions so you can test gameplay without wagering real cash."
+        },
+        {
+            "q": "8. How do I verify my account?",
+            "a": "You’ll be asked to submit identity and address documents to confirm your details before making withdrawals."
+        },
+        {
+            "q": "9. What should I do if I have a problem or need help?",
+            "a": "You can contact Gala Casino’s support team via live chat, email or phone (UK numbers available)"
+        },
+        {
+            "q": "10. Is there a loyalty or rewards programme?",
+            "a": "Yes, Gala Casino usually has a rewards system where players earn points for betting that can be redeemed for bonuses and other perks; check the promotions page for current offers."
+        }
+    ],
+    "reviews": [
+        {
+            "name": "Hanna",
+            "photo": "",
+            "text": "I’ve put over £50 into slots and haven’t won a single scatter or bonus win — feels like a total rip-off. I’d avoid this site unless you’re into poker or bingo. It just doesn’t deliver wins on slots."
+        },
+        {
+            "name": "Tim",
+            "photo": "",
+            "text": "Some players praise Gala Casino’s game variety and customer support, noting quick payouts and a genuine gaming experience compared to other sites. Many rate it positively overall, saying it’s a trustworthy option with smooth gameplay."
+        },
+        {
+            "name": "Mikel",
+            "photo": "",
+            "text": "Gala Casino has a good selection of games and the site feels authentic, but others report bonus and withdrawal frustrations. Views are mixed — some find the games enjoyable, others feel the casino is hard to win on and slow support responses can be a bother."
+        }
+    ],
+    "offers": [
+        {
+            "img": "\/img\/logo.png",
+            "title": "Welcome Bonus",
+            "text": "get up to $500"
+        },
+        {
+            "img": "\/img\/logo.png",
+            "title": "Tournaments",
+            "text": "free to play"
+        },
+        {
+            "img": "\/img\/logo.png",
+            "title": "Cashback",
+            "text": "up to 10%"
+        }
+    ],
+    "author": {
+        "photo": "img\/david-forrest-2.webp",
+        "name": "David Forrest",
+        "link": "david-forrest",
+        "role": "Economist and UK iGaming Analyst",
+        "desc": "David Forrest is a long-standing analyst and commentator on the UK gambling industry. With a background in economics and regulatory research, he focuses on player behaviour, market transparency and the real-world impact of gambling legislation. His writing combines academic insight with practical testing of platforms, offering balanced, evidence-based perspectives for British players.",
+        "links": [
+            {
+                "text": "Wikipedia",
+                "url": "https:\/\/en.wikipedia.org\/wiki\/David_Forrest_(economist)"
+            }
+        ]
+    },
+    "footer": {
+        "col1_title": "",
+        "col1_menu": [
+            {
+                "title": "Responsible Gambling",
+                "link": "responsible-gambling"
+            }
+        ],
+        "col2_title": "",
+        "col2_menu": [
+            {
+                "title": "Terms and Conditions",
+                "link": "terms-and-conditions"
+            },
+            {
+                "title": "Privacy Policy",
+                "link": "privacy-policy"
+            }
+        ],
+        "text_18": "18+",
+        "images": [
+            {
+                "url": "\/img\/gamstop.png",
+                "alt": "Gamstop Online"
+            },
+            {
+                "url": "\/img\/ga.png",
+                "alt": "Gamble Aware"
+            }
+        ],
+        "operated": "Gala Casino is licensed and regulated in Great Britain by the Gambling Commission under account number 54743",
+        "email": "support@gala-casino-uk1.com",
+        "force_auto_email": 1,
+        "copyright": "© 2026. ALL RIGHTS RESERVED. GAMBLING CAN BE ADDICTIVE. The content on our website is provided solely for informational purposes. While we make every effort to ensure the accuracy of the materials, we cannot guarantee that all information is fully precise and accept no liability for any outcomes resulting from its use. 18+ only"
+    }
+}
