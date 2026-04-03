@@ -1,0 +1,247 @@
+{
+    "theme": {
+        "page_bg": "#221b2c",
+        "block_bg": "#3e4145",
+        "hero_bg": "#3e4145",
+        "header_bg": "#24272f",
+        "footer_bg": "#3e4145",
+        "text_color": "#ffffff",
+        "text_muted": "#e0e0e0",
+        "btn_login_bg": "transparent",
+        "btn_login_border": "rgba(255,255,255,0.3)",
+        "btn_register_bg": "#238636",
+        "btn_register_hover": "#2ea043",
+        "btn_primary_bg": "#8209d3",
+        "btn_primary_hover": "#9e53d0",
+        "jackpot_neon": "#d65ca3",
+        "wheel_color_1": "#ffffff",
+        "wheel_color_2": "#8209d3",
+        "header_sticky": "static",
+        "container_width": "1200px",
+        "border_radius": "12px",
+        "offer_img_w": "auto",
+        "offer_img_h": "80px",
+        "order": [
+            "jackpot",
+            "hero",
+            "offers",
+            "adv",
+            "games",
+            "seo",
+            "faq",
+            "reviews",
+            "author"
+        ],
+        "visible": {
+            "jackpot": 0,
+            "hero": 1,
+            "offers": 1,
+            "games": 1,
+            "adv": 0,
+            "seo": 1,
+            "faq": 0,
+            "reviews": 1,
+            "author": 1
+        }
+    },
+    "meta": {
+        "favicon": "\/img\/favicon.png",
+        "pages": [
+            {
+                "url": "\/",
+                "title": "F7 Casino in United Kingdom | Official website",
+                "desc": "F7 Casino is an online gaming platform offering slots, table games and live casino experiences for UK players. This detailed guide covers registration, verification, bonuses, payments and responsible gambling features, helping players understand how the platform works before signing up.",
+                "code": "<style>\r\n.f7-chart{\r\n    box-sizing:border-box;\r\n    width:100%;\r\n    max-width:900px;\r\n    margin:0 auto;\r\n    padding:14px 14px 10px;\r\n    background:transparent;\r\n    border:1px solid rgba(0,0,0,.18);\r\n    border-radius:14px;\r\n    font-family:system-ui,-apple-system,Segoe UI,Roboto,Arial,sans-serif;\r\n    color:#ffffff;\r\n  }\r\n  .f7-chart *{box-sizing:border-box}\r\n  .f7-chart__row{\r\n    display:grid;\r\n    grid-template-columns: 160px 1fr 74px;\r\n    gap:10px;\r\n    align-items:center;\r\n    padding:10px 6px;\r\n    border-top:1px dashed rgba(0,0,0,.18);\r\n  }\r\n  .f7-chart__row:first-child{border-top:none}\r\n  .f7-chart__label{\r\n    font-size:14px;\r\n    line-height:1.2;\r\n    font-weight:600;\r\n    letter-spacing:.1px;\r\n    color:#ffffff;\r\n  }\r\n  .f7-chart__value{\r\n    text-align:right;\r\n    font-size:13px;\r\n    font-weight:700;\r\n    color:#ffffff;\r\n    white-space:nowrap;\r\n  }\r\n  .f7-chart__barwrap{\r\n    position:relative;\r\n    height:14px;\r\n    background:rgba(255,255,255,.55);\r\n    border:1px solid rgba(0,0,0,.18);\r\n    border-radius:999px;\r\n    overflow:hidden;\r\n  }\r\n  .f7-chart__bar{\r\n    height:100%;\r\n    width:calc(var(--v) * 1%);\r\n    background:linear-gradient(90deg, rgba(17,17,17,.85), rgba(17,17,17,.55));\r\n    border-radius:999px;\r\n    transform-origin:left center;\r\n    animation:f7Grow .9s ease-out both;\r\n  }\r\n  @keyframes f7Grow{\r\n    from{transform:scaleX(.05)}\r\n    to{transform:scaleX(1)}\r\n  }\r\n  @media (max-width:720px){\r\n    .f7-chart{\r\n      padding:12px 12px 8px;\r\n      border-radius:12px;\r\n    }\r\n    .f7-chart__row{\r\n      grid-template-columns: 1fr;\r\n      gap:8px;\r\n      padding:12px 4px;\r\n    }\r\n    .f7-chart__value{\r\n      text-align:left;\r\n      font-size:12.5px;\r\n      opacity:.95;\r\n    }\r\n    .f7-chart__barwrap{height:16px}\r\n    .f7-chart__label{font-size:14px}\r\n  }\r\n  @media (prefers-reduced-motion: reduce){\r\n    .f7-chart__bar{animation:none}\r\n  }\r\n\r\n\r\n .f7-bars{\r\n    box-sizing:border-box;\r\n    width:100%;\r\n    max-width:980px;\r\n    margin:0 auto;\r\n    padding:16px;\r\n    background:transparent;\r\n    border:1px solid rgba(0,0,0,.18);\r\n    border-radius:16px;\r\n    font-family:system-ui,-apple-system,Segoe UI,Roboto,Arial,sans-serif;\r\n    color:#111;\r\n  }\r\n  .f7-bars *{box-sizing:border-box}\r\n  .f7-bars__grid{\r\n    display:grid;\r\n    grid-template-columns:repeat(2,minmax(0,1fr));\r\n    gap:12px;\r\n  }\r\n  .f7-bars__item{\r\n    padding:12px 12px 10px;\r\n    border:1px solid rgba(0,0,0,.14);\r\n    border-radius:14px;\r\n    background:rgba(255,255,255,.22);\r\n    backdrop-filter:blur(2px);\r\n  }\r\n  .f7-bars__head{\r\n    display:flex;\r\n    align-items:baseline;\r\n    justify-content:space-between;\r\n    gap:10px;\r\n    margin-bottom:8px;\r\n  }\r\n  .f7-bars__name{\r\n    font-size:14px;\r\n    font-weight:700;\r\n    line-height:1.2;\r\n  }\r\n  .f7-bars__num{\r\n    font-size:13px;\r\n    font-weight:800;\r\n    white-space:nowrap;\r\n  }\r\n  .f7-bars__track{\r\n    position:relative;\r\n    height:14px;\r\n    border-radius:999px;\r\n    background:rgba(255,255,255,.55);\r\n    border:1px solid rgba(0,0,0,.18);\r\n    overflow:hidden;\r\n  }\r\n  .f7-bars__fill{\r\n    height:100%;\r\n    width:calc(var(--v) * 1%);\r\n    background:linear-gradient(90deg, rgba(17,17,17,.88), rgba(17,17,17,.52));\r\n    border-radius:999px;\r\n    transform-origin:left center;\r\n    animation:f7BarsGrow .95s ease-out both;\r\n  }\r\n  .f7-bars__meta{\r\n    margin-top:8px;\r\n    font-size:12.5px;\r\n    line-height:1.35;\r\n    color:rgba(17,17,17,.86);\r\n  }\r\n  @keyframes f7BarsGrow{\r\n    from{transform:scaleX(.05)}\r\n    to{transform:scaleX(1)}\r\n  }\r\n  @media (max-width:820px){\r\n    .f7-bars{\r\n      padding:12px;\r\n      border-radius:14px;\r\n    }\r\n    .f7-bars__grid{\r\n      grid-template-columns:1fr;\r\n      gap:10px;\r\n    }\r\n    .f7-bars__item{\r\n      padding:12px;\r\n      border-radius:12px;\r\n    }\r\n    .f7-bars__track{height:16px}\r\n  }\r\n  @media (prefers-reduced-motion: reduce){\r\n    .f7-bars__fill{animation:none}\r\n  }\r\n\r\n@media (min-width: 720px) {\r\n\t.img-width {width:60%!important;}\r\n        }\r\n<\/style>"
+            },
+            {
+                "url": "terms-and-conditions",
+                "title": "Terms and Conditions | F7 Casino UK",
+                "desc": "",
+                "code": ""
+            },
+            {
+                "url": "privacy-policy",
+                "title": "Privacy Policy | F7 Casino UK",
+                "desc": "",
+                "code": ""
+            },
+            {
+                "url": "responsible-gambling",
+                "title": "Responsible Gambling | F7 Casino UK",
+                "desc": "",
+                "code": ""
+            },
+            {
+                "url": "david-forrest",
+                "title": "David Forrest | F7 Casino UK",
+                "desc": "",
+                "code": ""
+            }
+        ]
+    },
+    "custom_pages": [
+        {
+            "url": "terms-and-conditions",
+            "html": "<div class=\"main-text wrap section\">\r\n<div class=\"main-text-wrap page-item\">\r\n<h1>Terms and Conditions<\/h1>\r\n<p>These Terms and Conditions govern the use of the&nbsp;<a href=\"https:\/\/f7casino-uk1.com\/\">F7 Casino<\/a>&nbsp;platform by players located in the United Kingdom. By creating an account or accessing the website, the player confirms acceptance of these terms in full. If the terms are not accepted, use of the platform must be discontinued immediately.<\/p>\r\n<h2>Eligibility<\/h2>\r\n<p>Participation is strictly limited to individuals aged eighteen years or over. By registering, the player confirms that all provided information is accurate and truthful. The operator reserves the right to request documentation to verify age, identity and residential status at any time.<\/p>\r\n<h2>Account Registration<\/h2>\r\n<p>Each player may register only one personal account. Duplicate accounts may result in suspension, cancellation of bonuses and voiding of winnings. The account holder is responsible for maintaining the confidentiality of login credentials and for all activity conducted under the account.<\/p>\r\n<h2>Verification Requirements<\/h2>\r\n<p>Identity verification is mandatory before withdrawals are processed. The operator may request a valid photo ID, proof of address and confirmation of payment method ownership. Failure to provide requested documents may lead to account restrictions or closure.<\/p>\r\n<h2>Deposits and Payments<\/h2>\r\n<p>Deposits must be made using payment methods registered in the player&rsquo;s own name. Credit cards are not permitted for gambling transactions within the United Kingdom. The operator reserves the right to refuse or return deposits where regulatory or security concerns arise.<\/p>\r\n<h2>Withdrawals<\/h2>\r\n<p>Withdrawal requests are subject to verification and internal review. Processing times vary depending on the selected payment method. The operator may request additional documentation before approving withdrawals. Funds will be returned to the original payment method where possible.<\/p>\r\n<h2>Bonuses and Promotions<\/h2>\r\n<p>All bonuses are subject to specific promotional terms, including wagering requirements, maximum bet limits and expiry dates. Breach of promotional conditions may result in forfeiture of bonus funds and related winnings. The operator reserves the right to modify or withdraw promotional offers at its discretion.<\/p>\r\n<h2>Game Rules<\/h2>\r\n<p>Each game offered on the platform is governed by its individual rules and payout structure. It is the player&rsquo;s responsibility to review game rules prior to participation. In the event of discrepancies, the game provider&rsquo;s recorded results shall be considered final.<\/p>\r\n<h2>Responsible Gambling<\/h2>\r\n<p>The platform provides tools to assist with responsible play, including deposit limits, time-outs and self-exclusion options. Players are encouraged to use these tools to maintain control over their gambling activity.<\/p>\r\n<h2>Prohibited Activities<\/h2>\r\n<ul>\r\n<li>Using the platform for fraudulent or unlawful purposes.<\/li>\r\n<li>Providing false or misleading personal information.<\/li>\r\n<li>Opening multiple accounts.<\/li>\r\n<li>Attempting to manipulate bonuses or exploit technical errors.<\/li>\r\n<\/ul>\r\n<p>Any breach of these conditions may result in account suspension, confiscation of funds and reporting to relevant authorities where required.<\/p>\r\n<h2>Technical Errors<\/h2>\r\n<p>In the event of system malfunction, software error or incorrect payout, the operator reserves the right to void affected transactions and correct account balances accordingly.<\/p>\r\n<h2>Account Closure<\/h2>\r\n<p>Players may request account closure at any time by contacting customer support. The operator reserves the right to suspend or terminate accounts where terms have been violated or regulatory obligations require such action.<\/p>\r\n<h2>Amendments<\/h2>\r\n<p>These Terms and Conditions may be updated periodically to reflect regulatory or operational changes. Continued use of the platform constitutes acceptance of the revised terms.<\/p>\r\n<h2>Governing Law<\/h2>\r\n<p>These Terms and Conditions are governed by applicable laws and regulations relevant to the jurisdiction under which the operator is licensed to provide services to players in the United Kingdom.<\/p>\r\n<\/div>\r\n<\/div>"
+        },
+        {
+            "url": "privacy-policy",
+            "html": "<h1>Privacy Policy<\/h1>\r\n<p>This Privacy Policy explains how&nbsp;<a href=\"https:\/\/f7casino-uk1.com\/\">F7 Casino<\/a>&nbsp;collects, uses, stores and protects personal information of players located in the United Kingdom. By registering an account or using the platform, the player acknowledges and agrees to the practices described in this policy.<\/p>\r\n<h2>Information Collected<\/h2>\r\n<p>The platform collects personal data necessary to provide gambling services and comply with regulatory obligations. This may include full name, date of birth, residential address, email address, telephone number, payment details, transaction history and technical data such as IP address and device information.<\/p>\r\n<h2>Purpose of Data Processing<\/h2>\r\n<p>Personal information is processed to create and manage player accounts, verify identity, process deposits and withdrawals, prevent fraud, comply with legal requirements and improve platform functionality. Data may also be used to communicate important account information and promotional updates, where permitted by law.<\/p>\r\n<h2>Legal Basis for Processing<\/h2>\r\n<p>Data processing is carried out in accordance with applicable data protection legislation, including the UK General Data Protection Regulation. Information is processed based on contractual necessity, legal obligations and legitimate business interests.<\/p>\r\n<h2>Identity Verification and Compliance<\/h2>\r\n<p>To comply with anti-money laundering and regulatory requirements, players may be required to provide documentation confirming identity, age, address and source of funds. Verification data is handled securely and retained in line with regulatory standards.<\/p>\r\n<h2>Data Sharing<\/h2>\r\n<p>Personal data may be shared with trusted third parties where necessary to deliver services. This may include payment providers, identity verification agencies, fraud prevention services and regulatory authorities. Data is only shared when required for operational or legal purposes.<\/p>\r\n<h2>Data Retention<\/h2>\r\n<p>Personal information is retained only for as long as required by legal, regulatory or operational obligations. When data is no longer required, it is securely deleted or anonymised.<\/p>\r\n<h2>Data Security<\/h2>\r\n<p>Appropriate technical and organisational measures are implemented to protect personal information against unauthorised access, loss or misuse. Secure encryption and restricted internal access policies are applied to safeguard sensitive data.<\/p>\r\n<h2>Player Rights<\/h2>\r\n<p>Players located in the United Kingdom have the right to request access to their personal data, request correction of inaccurate information, request deletion where legally permitted, restrict certain processing activities and withdraw consent for marketing communications.<\/p>\r\n<h2>Cookies and Tracking Technologies<\/h2>\r\n<p>The platform uses cookies and similar technologies to improve website functionality, analyse traffic and personalise user experience. Players may manage cookie preferences through their browser settings.<\/p>\r\n<h2>International Transfers<\/h2>\r\n<p>Where personal data is transferred outside the United Kingdom, appropriate safeguards are implemented to ensure that data protection standards remain consistent with UK regulations.<\/p>\r\n<h2>Contact Information<\/h2>\r\n<p>Questions regarding this Privacy Policy or requests relating to personal data can be submitted through the customer support channels available on the platform. Requests are handled in accordance with applicable data protection legislation.<\/p>\r\n<p>This Privacy Policy may be updated periodically to reflect legal or operational changes. Continued use of the platform constitutes acceptance of the current version of the policy.<\/p>"
+        },
+        {
+            "url": "david-forrest",
+            "html": "<p>David Forrest is an applied economist and econometrician who specialises in analysis of the sports and gambling industries. He has contributed substantially to the academic literature in both areas. He plays an active role in advising on public policy in the area of responsible gambling and also advises international organisations on issues related to sports integrity and betting markets<\/p>"
+        },
+        {
+            "url": "responsible-gambling",
+            "html": "<h1>Responsible Gambling<\/h1>\r\n<p><a href=\"https:\/\/f7casino-uk1.com\/\">F7 Casino<\/a>&nbsp;supports a responsible approach to online gambling and encourages players in the United Kingdom to treat gaming as a form of entertainment, not a source of income. Gambling should remain enjoyable and controlled. If play begins to feel stressful, compulsive or financially uncomfortable, it is important to pause and reassess.<\/p>\r\n<h2>Our Commitment<\/h2>\r\n<p>The platform is designed to provide tools that help players manage their activity in a transparent and practical way. Responsible gambling measures are not restrictions for the sake of limitation; they are safeguards that protect long-term wellbeing and financial stability.<\/p>\r\n<h2>Player Protection Tools<\/h2>\r\n<h3>Deposit Limits<\/h3>\r\n<p>Players can set daily, weekly or monthly deposit limits directly within their account. Once confirmed, limits cannot be increased immediately, which helps prevent impulsive decisions.<\/p>\r\n<h3>Loss Limits<\/h3>\r\n<p>Loss limits allow players to control how much they are willing to risk over a defined period. When the limit is reached, further play is restricted until the timeframe resets.<\/p>\r\n<h3>Session Reminders<\/h3>\r\n<p>Reality checks provide notifications during play, reminding users how long they have been active and how much has been spent. This helps maintain awareness and control.<\/p>\r\n<h3>Time-Out<\/h3>\r\n<p>Players may activate a temporary break from their account for a selected period. During this time, access to games and deposits is restricted.<\/p>\r\n<h3>Self-Exclusion<\/h3>\r\n<p>Self-exclusion allows players to close their account for a longer, predefined duration. Once activated, the account cannot be reopened until the exclusion period has ended.<\/p>\r\n<h2>Age Restrictions<\/h2>\r\n<p>F7 Casino is strictly available to individuals aged 18 or over. Age verification procedures are in place to prevent underage gambling. Any account found to be operated by a minor will be suspended.<\/p>\r\n<h2>Recognising the Signs of Problem Gambling<\/h2>\r\n<ul>\r\n<li>Spending more money or time than intended.<\/li>\r\n<li>Chasing losses in an attempt to recover funds.<\/li>\r\n<li>Borrowing money to continue playing.<\/li>\r\n<li>Feeling anxious or irritable when not gambling.<\/li>\r\n<li>Hiding gambling activity from family or friends.<\/li>\r\n<\/ul>\r\n<p>If any of these signs are present, it is advisable to seek support and consider activating available account restrictions immediately.<\/p>\r\n<h2>External Support Organisations<\/h2>\r\n<p>Players in the United Kingdom can access confidential support through recognised organisations that specialise in gambling-related assistance.<\/p>\r\n<ul>\r\n<li>GamCare &ndash; confidential advice and support.<\/li>\r\n<li>GambleAware &ndash; information and treatment resources.<\/li>\r\n<li>National Gambling Helpline &ndash; freephone support within the UK.<\/li>\r\n<\/ul>\r\n<p>These services operate independently and provide professional guidance for individuals experiencing gambling-related difficulties.<\/p>\r\n<h2>Staying in Control<\/h2>\r\n<p>Before playing, set a budget that you can comfortably afford to lose. Avoid gambling when feeling stressed, upset or under the influence of alcohol. Take regular breaks and treat any winnings as a bonus rather than an expectation. Responsible gambling is about balance, awareness and maintaining control at all times.<\/p>\r\n<p>If you believe your gambling behaviour is becoming problematic, contact support services immediately and use the protective tools available within your account.<\/p>"
+        }
+    ],
+    "header": {
+        "logo": "\/img\/logo.svg",
+        "logo_alt": "F7 Casino",
+        "menu": []
+    },
+    "hero": {
+        "jackpot_title": "Current Jackpot",
+        "hero_title": "F7 Casino bonus",
+        "hero_subtitle": "GET UP to 1000 FS"
+    },
+    "seo": {
+        "html": "<h1>F7 Casino UK<\/h1>\r\n<p>I&rsquo;ve never been fond of reviews that start with big promises and end in vague praise. So instead, I approached F7 Casino the way an ordinary UK player would: I visited the site, checked whether it made sense without guidance, looked closely at the bonus terms, browsed the games, and considered how easy it would be to deposit and &mdash; more importantly &mdash; withdraw without unnecessary friction. What follows is that journey, stripped of hype and marketing gloss.<\/p>\r\n<table style=\"width: 100%; max-width: 900px; margin: 0 auto; border-collapse: collapse; font-family: system-ui,-apple-system,Segoe UI,Roboto,Arial,sans-serif; background: transparent; color: #ffffff;\">\r\n<tbody>\r\n<tr>\r\n<td style=\"padding: 12px; border: 1px solid rgba(255,255,255,0.35); font-weight: 600; width: 40%;\">Brand Name<\/td>\r\n<td style=\"padding: 12px; border: 1px solid rgba(255,255,255,0.35);\">F7 Casino<\/td>\r\n<\/tr>\r\n<tr>\r\n<td style=\"padding: 12px; border: 1px solid rgba(255,255,255,0.35); font-weight: 600;\">Market Focus<\/td>\r\n<td style=\"padding: 12px; border: 1px solid rgba(255,255,255,0.35);\">United Kingdom<\/td>\r\n<\/tr>\r\n<tr>\r\n<td style=\"padding: 12px; border: 1px solid rgba(255,255,255,0.35); font-weight: 600;\">Platform Type<\/td>\r\n<td style=\"padding: 12px; border: 1px solid rgba(255,255,255,0.35);\">Online Casino (Slots, Table Games, Live Casino)<\/td>\r\n<\/tr>\r\n<tr>\r\n<td style=\"padding: 12px; border: 1px solid rgba(255,255,255,0.35); font-weight: 600;\">Registration<\/td>\r\n<td style=\"padding: 12px; border: 1px solid rgba(255,255,255,0.35);\">Online account required, 18+ only<\/td>\r\n<\/tr>\r\n<tr>\r\n<td style=\"padding: 12px; border: 1px solid rgba(255,255,255,0.35); font-weight: 600;\">Verification (KYC)<\/td>\r\n<td style=\"padding: 12px; border: 1px solid rgba(255,255,255,0.35);\">Mandatory before withdrawal<\/td>\r\n<\/tr>\r\n<tr>\r\n<td style=\"padding: 12px; border: 1px solid rgba(255,255,255,0.35); font-weight: 600;\">Welcome Offer<\/td>\r\n<td style=\"padding: 12px; border: 1px solid rgba(255,255,255,0.35);\">Deposit bonus and\/or free spins (subject to wagering requirements)<\/td>\r\n<\/tr>\r\n<tr>\r\n<td style=\"padding: 12px; border: 1px solid rgba(255,255,255,0.35); font-weight: 600;\">Wagering<\/td>\r\n<td style=\"padding: 12px; border: 1px solid rgba(255,255,255,0.35);\">Typically x30&ndash;x40 depending on promotion<\/td>\r\n<\/tr>\r\n<tr>\r\n<td style=\"padding: 12px; border: 1px solid rgba(255,255,255,0.35); font-weight: 600;\">Payment Methods<\/td>\r\n<td style=\"padding: 12px; border: 1px solid rgba(255,255,255,0.35);\">Debit Cards, Digital Wallets, Bank Transfers<\/td>\r\n<\/tr>\r\n<tr>\r\n<td style=\"padding: 12px; border: 1px solid rgba(255,255,255,0.35); font-weight: 600;\">Credit Card Policy<\/td>\r\n<td style=\"padding: 12px; border: 1px solid rgba(255,255,255,0.35);\">Credit cards not permitted for UK gambling transactions<\/td>\r\n<\/tr>\r\n<tr>\r\n<td style=\"padding: 12px; border: 1px solid rgba(255,255,255,0.35); font-weight: 600;\">Deposit Speed<\/td>\r\n<td style=\"padding: 12px; border: 1px solid rgba(255,255,255,0.35);\">Instant (subject to payment provider)<\/td>\r\n<\/tr>\r\n<tr>\r\n<td style=\"padding: 12px; border: 1px solid rgba(255,255,255,0.35); font-weight: 600;\">Withdrawal Time<\/td>\r\n<td style=\"padding: 12px; border: 1px solid rgba(255,255,255,0.35);\">Several hours to a few working days after approval<\/td>\r\n<\/tr>\r\n<tr>\r\n<td style=\"padding: 12px; border: 1px solid rgba(255,255,255,0.35); font-weight: 600;\">Mobile Compatibility<\/td>\r\n<td style=\"padding: 12px; border: 1px solid rgba(255,255,255,0.35);\">Fully browser-based on iOS and Android<\/td>\r\n<\/tr>\r\n<tr>\r\n<td style=\"padding: 12px; border: 1px solid rgba(255,255,255,0.35); font-weight: 600;\">Responsible Gambling Tools<\/td>\r\n<td style=\"padding: 12px; border: 1px solid rgba(255,255,255,0.35);\">Deposit limits, time-outs, self-exclusion, session reminders<\/td>\r\n<\/tr>\r\n<\/tbody>\r\n<\/table>\r\n<h2>First Impressions: A Site Should Either Guide You or Lose You<\/h2>\r\n<p>Within seconds of landing on the homepage, you can usually tell who a platform is built for. F7 Casino presents a modern, dark-themed layout with clear navigation and minimal clutter. I look for three things straight away: where the registration button is, where the bonus terms are explained, and how quickly I can access the games. If those three aren&rsquo;t obvious within a minute, interest fades quickly. Here, the structure feels intuitive &mdash; login and registration are prominent, the game lobby is easy to find &mdash; though bonus terms require proper reading rather than a quick glance.<\/p>\r\n<h2>Registration: Quick to Start, Serious Once You Continue<\/h2>\r\n<p>Opening an account takes only a few minutes: email, password, date of birth, standard confirmations. But for UK players, registration is only the beginning. The real process begins when it comes to verification. If a platform operates properly for the British market, identity checks are not optional. I always treat this as part of the process &mdash; better to complete verification early than to face delays when requesting a withdrawal.<\/p>\r\n<h3>What I Would Prepare in Advance for Verification<\/h3>\r\n<ul>\r\n<li>A valid photo ID.<\/li>\r\n<li>Proof of address within the United Kingdom.<\/li>\r\n<li>Occasionally, confirmation of your payment method or source of funds for larger withdrawals.<\/li>\r\n<\/ul>\r\n<p>The point is simple: if you intend to withdraw winnings rather than just explore casually, don&rsquo;t postpone verification. It nearly always appears at the least convenient moment.<\/p>\r\n<h2>Bonuses: Where Attention Pays Off<\/h2>\r\n<p>I don&rsquo;t look at bonuses through the lens of &ldquo;how much they give&rdquo; but rather &ldquo;what they expect in return&rdquo;. At F7 Casino, as with most operators, the welcome package may look appealing &mdash; a matched deposit, perhaps some free spins, sometimes staggered offers across multiple deposits. The headline number, however, matters less than the wagering requirement, maximum stake limits during playthrough, and expiry terms. For UK-facing platforms, the terms are usually presented clearly, but they still deserve a careful read.<\/p>\r\n<h3>Three Things I Check Before Accepting a Bonus<\/h3>\r\n<ul>\r\n<li>The wagering requirement &mdash; how many times the bonus must be played through.<\/li>\r\n<li>The maximum bet allowed during wagering &mdash; a common source of disqualification.<\/li>\r\n<li>The expiry period &mdash; bonuses rarely reward procrastination.<\/li>\r\n<\/ul>\r\n<p>If you prefer uncomplicated play, declining the bonus can sometimes be the more relaxed option. If you do accept one, treat it as an agreement: read it, understand it, then commit.<\/p>\r\n<h2>Games: More Than Just &ldquo;A Large Selection&rdquo;<\/h2>\r\n<p>Most casinos offer a wide range of slots, so volume alone means little. I pay attention to structure &mdash; how categories are organised and whether the search and filters function smoothly. F7 Casino follows a familiar format: slots, table games, live casino. For UK players in particular, the live segment often proves decisive, as it delivers the atmosphere of a real casino floor without leaving home.<\/p>\r\n<h3>How I Test the Platform on My First Visit<\/h3>\r\n<ul>\r\n<li>One straightforward slot to observe balance updates and gameplay flow.<\/li>\r\n<li>One table game to evaluate interface clarity and responsiveness.<\/li>\r\n<li>One live table to assess streaming quality and interaction.<\/li>\r\n<\/ul>\r\n<p>If these three areas run smoothly, it&rsquo;s usually a sign of a well-built platform. If navigation feels awkward or gameplay lags, it rarely proves to be a one-off issue.<\/p>\r\n<h2>Payments in the UK: One Important Rule<\/h2>\r\n<p>There is a specific consideration for British players: credit cards cannot be used for gambling transactions. Payment options must comply with UK regulations, and reputable operators reflect this clearly. I tend to choose the most straightforward route &mdash; a debit card or established digital wallet. Deposits are typically processed instantly, while withdrawals depend on verification status and internal reviews.<\/p>\r\n<h3>My Practical Checklist Before Depositing<\/h3>\r\n<ul>\r\n<li>Confirm the minimum deposit and withdrawal thresholds.<\/li>\r\n<li>Check estimated processing times for withdrawals.<\/li>\r\n<li>Ensure the chosen method supports both deposits and withdrawals.<\/li>\r\n<\/ul>\r\n<p>A frequent oversight is depositing via one method only to discover that withdrawals must be processed differently or require additional steps.<\/p>\r\n<h2>Mobile Experience: Functionality Over Flash<\/h2>\r\n<p>A well-designed mobile site is almost invisible &mdash; you simply play without thinking about it. A poorly designed one constantly reminds you of its flaws. F7 Casino appears optimised for mobile use: clear typography, responsive buttons, straightforward navigation. In the UK, many players engage in short sessions throughout the day, so ease of access matters far more than visual theatrics.<\/p>\r\n<h2>Responsible Gambling: A Mark of a Serious Operator<\/h2>\r\n<p>For British players, responsible gambling tools are not decorative additions but essential safeguards. I always check whether deposit limits, time-outs, self-exclusion options, and session reminders are easily accessible. These measures do not restrict enjoyment; they maintain control. If such tools are hidden or unclear, that raises concerns.<\/p>\r\n<div class=\"f7-chart\" role=\"img\" aria-label=\"Bar chart showing F7 Casino experience scores across key areas\">\r\n<div class=\"f7-chart__row\">\r\n<div class=\"f7-chart__label\">Navigation &amp; UI<\/div>\r\n<div class=\"f7-chart__barwrap\">\r\n<div class=\"f7-chart__bar\" style=\"--v: 88;\">&nbsp;<\/div>\r\n<\/div>\r\n<div class=\"f7-chart__value\">8.8\/10<\/div>\r\n<\/div>\r\n<div class=\"f7-chart__row\">\r\n<div class=\"f7-chart__label\">Mobile Experience<\/div>\r\n<div class=\"f7-chart__barwrap\">\r\n<div class=\"f7-chart__bar\" style=\"--v: 90;\">&nbsp;<\/div>\r\n<\/div>\r\n<div class=\"f7-chart__value\">9.0\/10<\/div>\r\n<\/div>\r\n<div class=\"f7-chart__row\">\r\n<div class=\"f7-chart__label\">Game Variety<\/div>\r\n<div class=\"f7-chart__barwrap\">\r\n<div class=\"f7-chart__bar\" style=\"--v: 82;\">&nbsp;<\/div>\r\n<\/div>\r\n<div class=\"f7-chart__value\">8.2\/10<\/div>\r\n<\/div>\r\n<div class=\"f7-chart__row\">\r\n<div class=\"f7-chart__label\">Live Casino<\/div>\r\n<div class=\"f7-chart__barwrap\">\r\n<div class=\"f7-chart__bar\" style=\"--v: 84;\">&nbsp;<\/div>\r\n<\/div>\r\n<div class=\"f7-chart__value\">8.4\/10<\/div>\r\n<\/div>\r\n<div class=\"f7-chart__row\">\r\n<div class=\"f7-chart__label\">Payments (UK fit)<\/div>\r\n<div class=\"f7-chart__barwrap\">\r\n<div class=\"f7-chart__bar\" style=\"--v: 80;\">&nbsp;<\/div>\r\n<\/div>\r\n<div class=\"f7-chart__value\">8.0\/10<\/div>\r\n<\/div>\r\n<div class=\"f7-chart__row\">\r\n<div class=\"f7-chart__label\">Withdrawals &amp; KYC<\/div>\r\n<div class=\"f7-chart__barwrap\">\r\n<div class=\"f7-chart__bar\" style=\"--v: 74;\">&nbsp;<\/div>\r\n<\/div>\r\n<div class=\"f7-chart__value\">7.4\/10<\/div>\r\n<\/div>\r\n<div class=\"f7-chart__row\">\r\n<div class=\"f7-chart__label\">Bonus Clarity<\/div>\r\n<div class=\"f7-chart__barwrap\">\r\n<div class=\"f7-chart__bar\" style=\"--v: 70;\">&nbsp;<\/div>\r\n<\/div>\r\n<div class=\"f7-chart__value\">7.0\/10<\/div>\r\n<\/div>\r\n<div class=\"f7-chart__row\">\r\n<div class=\"f7-chart__label\">Responsible Gambling Tools<\/div>\r\n<div class=\"f7-chart__barwrap\">\r\n<div class=\"f7-chart__bar\" style=\"--v: 86;\">&nbsp;<\/div>\r\n<\/div>\r\n<div class=\"f7-chart__value\">8.6\/10<\/div>\r\n<\/div>\r\n<\/div>\r\n<h3>Features I Consider Essential<\/h3>\r\n<ul>\r\n<li>Deposit and loss limits.<\/li>\r\n<li>Temporary time-out options.<\/li>\r\n<li>Self-exclusion with clearly defined terms.<\/li>\r\n<li>Session reminders and reality checks.<\/li>\r\n<\/ul>\r\n<p>Within the UK market, these safeguards are treated seriously &mdash; and rightly so. Gambling should remain entertainment, not escalate into difficulty.<\/p>\r\n<h2>Strengths and Considerations<\/h2>\r\n<h3>What Works Well<\/h3>\r\n<ul>\r\n<li>Clear navigation and strong mobile usability.<\/li>\r\n<li>A balanced selection of slots and live games.<\/li>\r\n<li>A structure that feels aligned with UK player expectations.<\/li>\r\n<\/ul>\r\n<h3>What Requires Attention<\/h3>\r\n<ul>\r\n<li>Bonus terms demand careful reading.<\/li>\r\n<li>Verification is likely before withdrawal, so prepare early.<\/li>\r\n<li>Withdrawal timelines depend on internal checks, which is standard practice rather than an exception.<\/li>\r\n<\/ul>\r\n<h2>A Practical Guide to Playing Without Surprises<\/h2>\r\n<ol>\r\n<li>Register and consider whether you plan to withdraw; if so, prepare documents for verification early.<\/li>\r\n<li>Before depositing, confirm payment limits and ensure your method supports withdrawals.<\/li>\r\n<li>If claiming a bonus, review wagering, stake limits, and expiry details carefully.<\/li>\r\n<li>Start with a brief test session across different game types to assess performance.<\/li>\r\n<li>Set deposit and session limits to maintain balanced play.<\/li>\r\n<\/ol>\r\n<h2>Final Thoughts: Who F7 Casino May Suit<\/h2>\r\n<div class=\"f7-bars\" role=\"img\" aria-label=\"Bar chart showing F7 Casino journey friction and speed across key steps\">\r\n<div class=\"f7-bars__grid\">\r\n<div class=\"f7-bars__item\">\r\n<div class=\"f7-bars__head\">\r\n<div class=\"f7-bars__name\">Sign-up speed<\/div>\r\n<div class=\"f7-bars__num\">9.2\/10<\/div>\r\n<\/div>\r\n<div class=\"f7-bars__track\">\r\n<div class=\"f7-bars__fill\" style=\"--v: 92;\">&nbsp;<\/div>\r\n<\/div>\r\n<div class=\"f7-bars__meta\">Fast form, clear entry points<\/div>\r\n<\/div>\r\n<div class=\"f7-bars__item\">\r\n<div class=\"f7-bars__head\">\r\n<div class=\"f7-bars__name\">Game discovery<\/div>\r\n<div class=\"f7-bars__num\">8.5\/10<\/div>\r\n<\/div>\r\n<div class=\"f7-bars__track\">\r\n<div class=\"f7-bars__fill\" style=\"--v: 85;\">&nbsp;<\/div>\r\n<\/div>\r\n<div class=\"f7-bars__meta\">Categories feel familiar, filters are usable<\/div>\r\n<\/div>\r\n<div class=\"f7-bars__item\">\r\n<div class=\"f7-bars__head\">\r\n<div class=\"f7-bars__name\">Live play smoothness<\/div>\r\n<div class=\"f7-bars__num\">8.4\/10<\/div>\r\n<\/div>\r\n<div class=\"f7-bars__track\">\r\n<div class=\"f7-bars__fill\" style=\"--v: 84;\">&nbsp;<\/div>\r\n<\/div>\r\n<div class=\"f7-bars__meta\">Stream is stable, UI stays out of the way<\/div>\r\n<\/div>\r\n<div class=\"f7-bars__item\">\r\n<div class=\"f7-bars__head\">\r\n<div class=\"f7-bars__name\">Deposit convenience<\/div>\r\n<div class=\"f7-bars__num\">8.1\/10<\/div>\r\n<\/div>\r\n<div class=\"f7-bars__track\">\r\n<div class=\"f7-bars__fill\" style=\"--v: 81;\">&nbsp;<\/div>\r\n<\/div>\r\n<div class=\"f7-bars__meta\">Debit\/wallet flow feels straightforward<\/div>\r\n<\/div>\r\n<div class=\"f7-bars__item\">\r\n<div class=\"f7-bars__head\">\r\n<div class=\"f7-bars__name\">Withdrawal readiness<\/div>\r\n<div class=\"f7-bars__num\">7.3\/10<\/div>\r\n<\/div>\r\n<div class=\"f7-bars__track\">\r\n<div class=\"f7-bars__fill\" style=\"--v: 73;\">&nbsp;<\/div>\r\n<\/div>\r\n<div class=\"f7-bars__meta\">Smooth after KYC, but KYC is a real step<\/div>\r\n<\/div>\r\n<div class=\"f7-bars__item\">\r\n<div class=\"f7-bars__head\">\r\n<div class=\"f7-bars__name\">Bonus usability<\/div>\r\n<div class=\"f7-bars__num\">7.0\/10<\/div>\r\n<\/div>\r\n<div class=\"f7-bars__track\">\r\n<div class=\"f7-bars__fill\" style=\"--v: 70;\">&nbsp;<\/div>\r\n<\/div>\r\n<div class=\"f7-bars__meta\">Works if you follow stake and time limits<\/div>\r\n<\/div>\r\n<div class=\"f7-bars__item\">\r\n<div class=\"f7-bars__head\">\r\n<div class=\"f7-bars__name\">Responsible play controls<\/div>\r\n<div class=\"f7-bars__num\">8.7\/10<\/div>\r\n<\/div>\r\n<div class=\"f7-bars__track\">\r\n<div class=\"f7-bars__fill\" style=\"--v: 87;\">&nbsp;<\/div>\r\n<\/div>\r\n<div class=\"f7-bars__meta\">Limits and breaks are easy to find<\/div>\r\n<\/div>\r\n<div class=\"f7-bars__item\">\r\n<div class=\"f7-bars__head\">\r\n<div class=\"f7-bars__name\">Overall predictability<\/div>\r\n<div class=\"f7-bars__num\">8.0\/10<\/div>\r\n<\/div>\r\n<div class=\"f7-bars__track\">\r\n<div class=\"f7-bars__fill\" style=\"--v: 80;\">&nbsp;<\/div>\r\n<\/div>\r\n<div class=\"f7-bars__meta\">No drama if you do the basics right<\/div>\r\n<\/div>\r\n<\/div>\r\n<\/div>\r\n<p>F7 Casino presents itself as a contemporary platform offering streamlined navigation, a familiar game selection, and reliable mobile functionality. For UK players, the key remains due diligence: read the terms, understand verification requirements, and approach bonuses with clarity. With realistic expectations and informed choices, the experience can remain straightforward and free of unnecessary surprises.<\/p>\r\n<h2>Frequently Asked Questions about F7 Casino (UK)<\/h2>\r\n<h3>Is F7 Casino available to players in the United Kingdom?<\/h3>\r\n<p>F7 Casino is accessible online, but UK players should always confirm that the platform is authorised to operate in Great Britain and complies with local regulatory requirements before registering or depositing.<\/p>\r\n<h3>Do I need to verify my identity before withdrawing?<\/h3>\r\n<p>Yes. Identity verification is a standard requirement for UK-facing casinos. Players are typically asked to provide photo ID and proof of address before withdrawals are processed.<\/p>\r\n<h3>Can I use a credit card to deposit?<\/h3>\r\n<p>No. Credit cards are not permitted for gambling transactions in the United Kingdom. Deposits are generally made via debit cards or approved digital payment methods.<\/p>\r\n<h3>How long do withdrawals usually take?<\/h3>\r\n<p>Withdrawal times depend on the selected payment method and verification status. Once documents are approved, processing may range from several hours to a few working days.<\/p>\r\n<h3>Are there wagering requirements on bonuses?<\/h3>\r\n<p>Most promotional offers include wagering requirements. Players should review the specific multiplier, maximum stake limits during wagering, and the time allowed to complete the playthrough.<\/p>\r\n<h3>Can I play on my mobile device?<\/h3>\r\n<p>Yes. The platform is typically accessible through mobile browsers on iOS and Android devices without the need to download additional software.<\/p>\r\n<h3>What responsible gambling tools are available?<\/h3>\r\n<p>UK players should expect access to deposit limits, session reminders, time-outs, and self-exclusion options. These tools are designed to help maintain control over spending and time in play.<\/p>\r\n<h3>Is there a minimum deposit requirement?<\/h3>\r\n<p>Minimum deposit amounts vary depending on the payment method. Players should check the cashier section for the exact thresholds before funding their account.<\/p>\r\n<h3>Can I cancel a bonus after claiming it?<\/h3>\r\n<p>In many cases, players can opt out of an active bonus, though any associated bonus funds and winnings derived from them may be removed. The specific procedure is outlined in the promotional terms.<\/p>\r\n<h3>What happens if my documents are not approved?<\/h3>\r\n<p>If verification documents are rejected, the operator will usually request clearer copies or additional information. Withdrawals remain pending until the verification process is successfully completed.<\/p>"
+    },
+    "advantages": [
+        {
+            "text": "Support 24 hours a day"
+        },
+        {
+            "text": "Large selection of different games and payment methods"
+        },
+        {
+            "text": "Fast payments for players"
+        }
+    ],
+    "faq": [
+        {
+            "q": "Is Midnite Casino legal for players in the United Kingdom?",
+            "a": "Yes. Midnite operates under a licence issued by the UK Gambling Commission, which means it complies with British regulatory standards covering player protection, identity verification, responsible gambling measures and the safeguarding of customer funds."
+        },
+        {
+            "q": "Do I need to complete verification before withdrawing?",
+            "a": "Yes. While you may be able to explore the platform before full verification is completed, you will need to pass identity checks before any withdrawal is processed. It is advisable to complete KYC early to avoid delays later."
+        },
+        {
+            "q": "How long do withdrawals usually take?",
+            "a": "Withdrawal times depend on the payment method used and whether your account is fully verified. E-wallets and certain online banking methods are typically faster than traditional card withdrawals. In most cases, once approved, payments are processed within hours to a couple of working days."
+        },
+        {
+            "q": "Does Midnite Casino offer live dealer games?",
+            "a": "Yes. The live casino section includes roulette, blackjack and other table games streamed in real time. The interface is optimised for both desktop and mobile play, with stable streaming quality."
+        },
+        {
+            "q": "Are there wagering requirements on bonuses?",
+            "a": "Most promotional offers include wagering requirements, which must be met before bonus winnings can be withdrawn. Always review the specific terms attached to each promotion, including maximum withdrawal limits and eligible games."
+        },
+        {
+            "q": "Can I set deposit or loss limits?",
+            "a": "Yes. Midnite provides responsible gambling tools that allow players to set deposit limits, take cooling-off breaks or self-exclude if necessary. These controls can be managed directly from your account settings."
+        },
+        {
+            "q": "What is the minimum deposit?",
+            "a": "The minimum deposit typically starts at £10, though this may vary depending on the payment method selected. Always check the cashier section for the most up-to-date information."
+        },
+        {
+            "q": "Does Midnite have a VIP programme?",
+            "a": "Midnite does not follow the traditional multi-tier VIP ladder seen at some older operators. Promotional incentives are structured differently, with periodic offers rather than a fixed status-based system."
+        },
+        {
+            "q": "Is Midnite suitable for casual players?",
+            "a": "Yes. The platform’s clean design, straightforward navigation and accessible responsible gambling tools make it suitable for both casual players and more experienced users who prefer a modern, uncluttered interface."
+        }
+    ],
+    "reviews": [
+        {
+            "name": "Charlotte, Leeds",
+            "photo": "",
+            "text": "I tend to play short sessions in the evenings on my mobile. The site adapts well to smaller screens, and finding games is simple. I appreciate the deposit limit tools — it makes it easier to keep things under control. Bonus conditions require attention, but that’s true for most casinos. Overall, a solid and predictable experience."
+        },
+        {
+            "name": "Oliver, Birmingham",
+            "photo": "",
+            "text": "I mainly play live blackjack, so streaming quality matters to me. The live tables run well, and I didn’t experience noticeable lag. The interface feels modern without being cluttered. I skipped the welcome bonus to avoid wagering requirements, and the overall experience was straightforward. Payments via debit card worked without issues."
+        },
+        {
+            "name": "James, London",
+            "photo": "",
+            "text": "I signed up out of curiosity and stayed because the site is genuinely easy to use. Registration was straightforward, and the mobile version runs smoothly on my phone. Verification did take a bit of time, but once approved, my withdrawal was processed within a couple of days. My advice is simple: complete your documents early and read the bonus terms carefully."
+        }
+    ],
+    "offers": [
+        {
+            "img": "\/img\/logo.svg",
+            "title": "",
+            "text": "GET 200 FREE SPINS"
+        },
+        {
+            "img": "\/img\/logo.svg",
+            "title": "Welcome Bonus",
+            "text": "UP to €150 bonus"
+        },
+        {
+            "img": "\/img\/logo.svg",
+            "title": "Cashback",
+            "text": "Up to 10%"
+        }
+    ],
+    "author": {
+        "photo": "img\/davidforrest.jpg",
+        "name": "David Forrest",
+        "link": "david-forrest",
+        "role": "Economist who specialises in analysis of the sports and gambling industries",
+        "desc": "Іs an applied economist and econometrician who specialises in analysis of the sports and gambling industries. He has contributed substantially to the academic literature in both areas. He plays an active role in advising on public policy in the area of responsible gambling and also advises international organisations on issues related to sports integrity and betting markets",
+        "links": [
+            {
+                "text": "Wikipedia",
+                "url": "https:\/\/en.wikipedia.org\/wiki\/David_Forrest_(economist)"
+            },
+            {
+                "text": "Profile",
+                "url": "https:\/\/theconversation.com\/profiles\/david-forrest-161517"
+            }
+        ]
+    },
+    "footer": {
+        "col1_title": "",
+        "col1_menu": [
+            {
+                "title": "Terms and Conditions",
+                "link": "terms-and-conditions"
+            },
+            {
+                "title": "Privacy Policy",
+                "link": "privacy-policy"
+            }
+        ],
+        "col2_title": "",
+        "col2_menu": [
+            {
+                "title": "Responsible Gambling",
+                "link": "responsible-gambling"
+            }
+        ],
+        "text_18": "18+",
+        "images": [
+            {
+                "url": "\/img\/gamstop.png",
+                "alt": "Gamstop Online"
+            },
+            {
+                "url": "\/img\/gc.webp",
+                "alt": "Gambling Comission"
+            }
+        ],
+        "operated": "F7 Casino is licensed and regulated in Great Britain by the Gambling Commission",
+        "email": "support@f7casino-uk1.com",
+        "copyright": "© 2026. ALL RIGHTS RESERVED. GAMBLING CAN BE ADDICTIVE. PLEASE PLAY RESPONSIBLY. INFO ON THE SITE IS FOR FAMILIARIZATION PURPOSES. ONLY 18+"
+    }
+}
