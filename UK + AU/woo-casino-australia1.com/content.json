@@ -1,0 +1,87 @@
+{
+    "theme": {
+        "page_bg": "#090c10",
+        "block_bg": "#161b22",
+        "hero_bg": "radial-gradient(circle at 50% 50%, #202b38 0%, #090c10 100%)",
+        "header_bg": "rgba(22, 27, 34, 0.95)",
+        "footer_bg": "#0d1117",
+        "text_color": "#f0f6fc",
+        "text_muted": "#8b949e",
+        "btn_login_bg": "transparent",
+        "btn_login_border": "rgba(255,255,255,0.3)",
+        "btn_register_bg": "#238636",
+        "btn_register_hover": "#2ea043",
+        "btn_primary_bg": "#d32f2f",
+        "btn_primary_hover": "#b71c1c",
+        "jackpot_neon": "#ffd700",
+        "wheel_color_1": "#1a1e24",
+        "wheel_color_2": "#c49a45",
+        "header_sticky": "static",
+        "container_width": "1200px",
+        "border_radius": "12px",
+        "order": [
+            "jackpot",
+            "hero",
+            "offers",
+            "games",
+            "adv",
+            "seo",
+            "faq",
+            "reviews",
+            "author"
+        ],
+        "visible": {
+            "jackpot": 1,
+            "hero": 1,
+            "offers": 1,
+            "games": 1,
+            "adv": 1,
+            "seo": 1,
+            "faq": 1,
+            "reviews": 1,
+            "author": 1
+        }
+    },
+    "meta": {
+        "favicon": "",
+        "pages": []
+    },
+    "custom_pages": [],
+    "header": {
+        "logo": "monopoly.svg",
+        "menu": []
+    },
+    "hero": {
+        "jackpot_title": "Current Jackpot",
+        "hero_title": "Test your luck",
+        "hero_subtitle": "Wheel of Fortune"
+    },
+    "seo": {
+        "html": "<h1>Monopoly Casino UK: The Ultimate Board Game Experience Online<\/h1>\r\n<p>Welcome to the official online platform where classic board game thrills meet modern casino excitement. At our casino, players can enjoy a vast array of tailored gaming options that bring the nostalgic feel of real estate trading into the digital gambling space.<\/p>\r\n<h2>Why Choose Our Platform?<\/h2>\r\n<p>We provide a secure, licensed, and highly entertaining environment. Our key benefits include:<\/p>\r\n<ul>\r\n<li>Exclusive branded slot games and live dealer rooms.<\/li>\r\n<li>Generous welcome bonuses including Free Spins (FS).<\/li>\r\n<li>24\/7 customer support for UK residents.<\/li>\r\n<li>Fast and reliable withdrawal methods.<\/li>\r\n<\/ul>\r\n<h3>Responsible Gaming<\/h3>\r\n<p>We are committed to providing a safe environment. Please ensure you read our <a href=\"#\">Terms &amp; Conditions<\/a> and utilize our responsible gambling tools to keep your playtime fun and manageable.<\/p>"
+    },
+    "advantages": [
+        {
+            "text": "text1"
+        },
+        {
+            "text": "text2"
+        },
+        {
+            "text": "text3"
+        }
+    ],
+    "faq": [],
+    "reviews": [],
+    "offers": [],
+    "footer": {
+        "col1_title": "тест",
+        "col1_menu": [],
+        "col2_title": "Help",
+        "col2_menu": [],
+        "text_18": "18+",
+        "images": [],
+        "operated": "",
+        "email": "",
+        "copyright": ""
+    }
+}
